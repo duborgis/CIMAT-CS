@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  3 APR 2019 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  3 APR 2019 12:58
 entering extended mode
 **./hilfszettel.tex
 (hilfszettel.tex
@@ -2047,12 +2047,177 @@ File: figures/tetcfc.jpg Graphic file (type jpg)
 <use figures/tetcfc.jpg>
 Package pdftex.def Info: figures/tetcfc.jpg  used on input line 387.
 (pdftex.def)             Requested size: 129.20967pt x 109.49973pt.
+<figures/NaCl.jpg, id=32, 251.82742pt x 225.84375pt>
+File: figures/NaCl.jpg Graphic file (type jpg)
+<use figures/NaCl.jpg>
+Package pdftex.def Info: figures/NaCl.jpg  used on input line 418.
+(pdftex.def)             Requested size: 125.91339pt x 112.92159pt.
+<figures/CsCl.png, id=33, 327.47343pt x 278.54062pt>
+File: figures/CsCl.png Graphic file (type png)
+<use figures/CsCl.png>
+Package pdftex.def Info: figures/CsCl.png  used on input line 425.
+(pdftex.def)             Requested size: 163.73631pt x 139.26996pt.
 
-Underfull \hbox (badness 5533) in paragraph at lines 403--405
-[][]\T1/jkp/m/n/8 (+20) M ele-men-to metá-li-co Xelemento não-
+Underfull \hbox (badness 10000) in paragraph at lines 424--426
+[][]\T1/jkp/m/n/8 (+20) Estrutura cú-bi-ca (NC = 8)
  []
 
-)
+
+Overfull \hbox (3.296pt too wide) in paragraph at lines 424--426
+[] 
+ []
+
+<figures/ZnS.jpg, id=34, 277.45035pt x 264.15932pt>
+File: figures/ZnS.jpg Graphic file (type jpg)
+<use figures/ZnS.jpg>
+Package pdftex.def Info: figures/ZnS.jpg  used on input line 434.
+(pdftex.def)             Requested size: 138.72482pt x 132.07933pt.
+<figures/CaF2.jpg, id=35, 412.54124pt x 278.54062pt>
+File: figures/CaF2.jpg Graphic file (type jpg)
+<use figures/CaF2.jpg>
+Package pdftex.def Info: figures/CaF2.jpg  used on input line 444.
+(pdftex.def)             Requested size: 206.27011pt x 139.26996pt.
+
+Overfull \hbox (45.8298pt too wide) in paragraph at lines 444--445
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--451
+[][]\T1/jkp/m/n/8 (+20) Estrutura ti-po M2X3 Ex:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--451
+\T1/jkp/m/n/8 (+20) Al2O3alumina ou corund-um
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--451
+\T1/jkp/m/n/8 (+20) 30íonsporcélulaunitária(12Al+3e18O2-)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--451
+\T1/jkp/m/n/8 (+20) 2/3do-sin-ter-stí-cio-so-cu-pa-dos-porí-on-sa-lumí-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--451
+\T1/jkp/m/n/8 (+20) nio. Outroscompostoscomestaestrutura:-
+ []
+
+<figures/Al2O3.jpg, id=36, 167.12437pt x 225.84375pt>
+File: figures/Al2O3.jpg Graphic file (type jpg)
+<use figures/Al2O3.jpg>
+Package pdftex.def Info: figures/Al2O3.jpg  used on input line 452.
+(pdftex.def)             Requested size: 83.56197pt x 112.92159pt.
+<figures/CaTiO.jpg, id=37, 282.99411pt x 195.50937pt>
+File: figures/CaTiO.jpg Graphic file (type jpg)
+<use figures/CaTiO.jpg>
+Package pdftex.def Info: figures/CaTiO.jpg  used on input line 462.
+(pdftex.def)             Requested size: 141.4967pt x 97.75444pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--463
+[][]\T1/jkp/m/n/8 (+20) Estruturatipo MM'X3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--463
+\T1/jkp/m/n/8 (+20) MeM'elementosmetálicos X ele-men-to
+ []
+
+
+Overfull \hbox (0.38539pt too wide) in paragraph at lines 454--463
+\T1/jkp/m/n/8 (-20) tem5íonsporcélulaunitária(1Ca+2,1Ti4+e3O2)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--463
+\T1/jkp/m/n/8 (+20) Ou-tro-com-po-sto-co-me-stae-stru-t-u-ra:BaTiO3.
+ []
+
+
+Overfull \hbox (17.95982pt too wide) in paragraph at lines 467--472
+[][]\T1/jkp/m/n/8 (-20) M(valência+2)eM'(valência+3)elementosmetálicos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--472
+\T1/jkp/m/n/8 (+20) importante famí-lia de ma-te-riais
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--472
+\T1/jkp/m/n/8 (+20) cerâ-mi-cos ma-gnéti-cos (es-piné-li-os).
+ []
+
+
+Overfull \hbox (2.24475pt too wide) in paragraph at lines 467--472
+\T1/jkp/m/n/8 (-20) 56íonsporcélulaunitária(8Mg+2,16Al3+e32O2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--472
+\T1/jkp/m/n/8 (+20) ), Ou-tros-com-po-stos-co-me-stae-stru-t-u-
+ []
+
+<figures/MgAlO.jpg, id=38, 306.94449pt x 317.5008pt>
+File: figures/MgAlO.jpg Graphic file (type jpg)
+<use figures/MgAlO.jpg>
+Package pdftex.def Info: figures/MgAlO.jpg  used on input line 473.
+(pdftex.def)             Requested size: 153.47186pt x 158.75pt.
+<figures/estsil.jpg, id=39, 483.92558pt x 381.18883pt>
+File: figures/estsil.jpg Graphic file (type jpg)
+<use figures/estsil.jpg>
+Package pdftex.def Info: figures/estsil.jpg  used on input line 490.
+(pdftex.def)             Requested size: 241.96219pt x 190.59393pt.
+
+Overfull \hbox (81.52188pt too wide) in paragraph at lines 490--491
+[][][] 
+ []
+
+<figures/sil1.jpg, id=40, 589.0005pt x 265.85036pt>
+File: figures/sil1.jpg Graphic file (type jpg)
+<use figures/sil1.jpg>
+Package pdftex.def Info: figures/sil1.jpg  used on input line 493.
+(pdftex.def)             Requested size: 294.49953pt x 132.92485pt.
+
+Overfull \hbox (134.05922pt too wide) in paragraph at lines 493--494
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
+[][]\T1/jkp/m/n/8 (+20) tetraedros du-plos - ex:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
+[][]\T1/jkp/m/n/8 (+20) camadas - ex: tal-co:
+ []
+
+! Undefined control sequence.
+\header ...header] \footnotesize \sffamily {\lage 
+                                                  Cimat}\\ Eduardo~Borges~Li...
+l.517 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 517.
+
+Overfull \vbox (2.18312pt too high) has occurred while \output is active []
+
+
+[2 <./figures/RELraio.jpg> <./figures/raio.jpg> <./figures/occfc.jpg> <./figure
+s/tetcfc.jpg> <./figures/NaCl.jpg> <./figures/CsCl.png> <./figures/ZnS.jpg> <./
+figures/CaF2.jpg> <./figures/Al2O3.jpg> <./figures/CaTiO.jpg> <./figures/MgAlO.
+jpg> <./figures/estsil.jpg> <./figures/sil1.jpg>])
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
@@ -2070,31 +2235,30 @@ Package mdframed Info: mdframed inside a box
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
 
-[2 <./figures/RELraio.jpg> <./figures/raio.jpg> <./figures/occfc.jpg> <./figure
-s/tetcfc.jpg>] (hilfszettel.aux) ) 
+[3] (hilfszettel.aux) ) 
 Here is how much of TeX's memory you used:
- 32160 strings out of 492947
- 650344 string characters out of 3123184
- 754597 words of memory out of 3000000
- 35350 multiletter control sequences out of 15000+200000
- 619200 words of font info for 185 fonts, out of 3000000 for 9000
+ 32237 strings out of 492947
+ 651500 string characters out of 3123184
+ 754632 words of memory out of 3000000
+ 35388 multiletter control sequences out of 15000+200000
+ 622360 words of font info for 208 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,81p,838b,1070s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/OdnSpceMaker/AppData/Local/Programs
-/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Users/OdnSpceMaker/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}<C:/Users/OdnSpceM
-aker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSa
-nsPro-Bold.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/OdnSpceMaker/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/O
-dnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.
-pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/kpfonts/jkpmn8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/kpfonts/jkpsy.pfb><C:/Users/OdnSpceMaker/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsya.pfb>
-Output written on hilfszettel.pdf (2 pages, 649969 bytes).
+ 55i,13n,81p,838b,1076s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9
+/fonts/enc/dvips/base/8r.enc}{C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKT
+eX 2.9/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}<C:/Users/OdnSpceMaker/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.
+pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/
+sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/OdnSpceMaker/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/OdnSpceMaker
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Use
+rs/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jk
+pmn8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/kpfonts/jkpsy.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/kpfonts/jkpsya.pfb>
+Output written on hilfszettel.pdf (3 pages, 986834 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 19519 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 19564 words of extra memory for PDF output out of 20736 (max. 10000000)
 
