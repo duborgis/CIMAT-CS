@@ -187,6 +187,9 @@ Condições operacionais
 \subsection*{Quais fatores influenciam na escolha dos materiais para determinado serviço ou aplicação industrial?}
 
 \begin{itemize}
+	\setlength{\parskip}{0pt}
+	\setlength{\itemsep}{0pt plus 1pt}
+	
 	\item Propriedades físicas e químicas 
 	\item Características operacionais
 	\item Fabricação, disponibilidade e custo
@@ -252,12 +255,12 @@ Existem diferentes estruturas cristalinas possíveis. É conveniente dividi-las 
 
 Parâmetros de rede cristalina:
 \begin{itemize}
+	\setlength{\parskip}{0pt}
+	\setlength{\itemsep}{0pt plus 1pt}
+	
 	\item a,b,c - comprimentos dos lados do paralelepípedo
 	\item $ \alpha$, $\beta$, $\gamma $ - ângulos entre os eixos
 \end{itemize}
-
-$\gamma $
-
 
 
 
@@ -283,11 +286,125 @@ Em algumas células unitárias existem alguns tipos básicos: simples, de corpo 
 
 
 
-Agora eu posso colocar mais variedades e salvar direto no meu git
+\subsection*{Características}
 
-Ai eu faço todas alterações e rodo o programa bat
+Numero de Coordenação: número de partículas que envolvem uma partícula central.
+
+Fator de empacotamento: volume de átomos numa célula unitária / volume da célula unitária.
+
+\subsection*{Valores para alguns sistemas cristalinos}
+
+\begin{itemize}
+	\setlength{\parskip}{0pt}
+	\setlength{\itemsep}{0pt plus 1pt}
+	
+	\item NC: Número de Coordenação
+	\item FE: Fator de empacotamento
+\end{itemize}
 
 
+Cubo simples - CS
+\begin{itemize}
+	\setlength{\parskip}{0pt}
+	\setlength{\itemsep}{0pt plus 1pt}
+	
+	\item NC: 6
+	\item FE: $\frac{4}{3} \cdot \frac{\pi \cdot r^{3}}{a^{3}} = 0,52$
+	\item Rel: a = 2R
+	
+\end{itemize}
+
+
+Cúbico de Corpo Centrado - CCC
+\begin{itemize}
+	\setlength{\parskip}{0pt}
+	\setlength{\itemsep}{0pt plus 1pt}
+	
+	\item NC: 8
+	\item FE: $2 \cdot \frac{4}{3} \cdot \frac{\pi \cdot r^{3}}{a^{3}}$ = 0,68
+	\item Rel: a = $\frac{4R}{\sqrt{3}}$
+\end{itemize}
+
+
+Cúbico de Faces Centradas - CFC
+\begin{itemize}
+	\setlength{\parskip}{0pt}
+	\setlength{\itemsep}{0pt plus 1pt}
+	
+	\item NC: 12
+	\item FE: $4 \cdot \frac{4}{3} \cdot \frac{\pi \cdot r^{3}}{a^{3}}$ 0,74
+	\item Rel: a = $\frac{4 \cdot R}{\sqrt{2}}$
+\end{itemize}
+
+Hexagonal
+\begin{itemize}
+	
+	\setlength{\parskip}{0pt}
+	\setlength{\itemsep}{0pt plus 1pt}
+	
+	\item NC: 12
+	\item FE: 0,73 (=CFC)
+	\item Rel: a = 2R
+\end{itemize}
+
+
+ \includegraphics[scale=0.4,trim={0 0 0 0}]{figures/RELraio}
+ \includegraphics[scale=0.24,trim={0 0 0 0}]{figures/raio}
+ 
+
+ \section{Estrutura dos materiais cerâmicos}
+ 
+ O posicionamento das partículas nos materiais cerâmicos depende da relação entre os raios(cátion/ânion) e das cargas envolvidas.
+ 
+ Nos vazios (sítios ou interstícios) da rede cristalina se posicionam partículas diferentes das que existem na rede cristalina principal.
+ 
+ Em redes compactas há espaços intersticiais, onde as partículas ficam equidistantes do centro do espaço vazio.
+ 
+
+\textbf{Posições octaédricas na rede cfc:}
+ \begin{itemize}
+ 	
+ 	\setlength{\parskip}{0pt}
+ 	\setlength{\itemsep}{0pt plus 1pt}
+ 	
+ 	\item NC: 6
+ 	\item Local:arestas (3 sítios) + centro da célula unitária
+ 	\item Total: 4 partículas (1 por partículas da célula unitária)
+ \end{itemize}
+ \includegraphics[scale=0.5,trim={0 0 0 0}]{figures/occfc}
+ 
+ 
+\textbf{ Posições tetraédricas na rede cfc:}
+  \begin{itemize}
+ 	
+ 	\setlength{\parskip}{0pt}
+ 	\setlength{\itemsep}{0pt plus 1pt}
+ 	
+ 	\item NC: 4
+ 	\item Local:posições do tipo ($\frac{1}{4}$, $\frac{1}{4}$, $\frac{1}{4}$)
+ 	\item Total: 8 partículas (2 por partículas	da célula unitária)
+ \end{itemize}
+ \includegraphics[scale=0.5,trim={0 0 0 0}]{figures/tetcfc}
+ 
+\section{Estrutura dos Materiais Cerâmicos}
+FEI=fator de empacotamento iônico
+As estruturas são bastante complexas, podendo-se representar alguns tipos mais comuns:
+
+
+\begin{itemize}
+	\item Cerâmicostipo MaM’bXc
+	\item MX
+	\item $MX_{2}$
+	\item $M_{2}X_{3}$
+	\item $MM'X_{3}$
+	\item $M'M_{2}''X_{4}$
+\end{itemize}
+
+M –elemento metálico
+X–elemento não-metálico
+
+ 
+ 
  
 %\subsection*{Aussage}
 %Eine Aussage ist ein Satz, der entweder wahr oder falsch ist, also nie beides zugleich.
