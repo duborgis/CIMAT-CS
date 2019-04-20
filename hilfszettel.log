@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  3 APR 2019 12:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  20 APR 2019 19:28
 entering extended mode
 **./hilfszettel.tex
 (hilfszettel.tex
@@ -47,15 +47,9 @@ ts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-germa
-n\ngerman.ldf"
-Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthogra
-phy)
-
-("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-germa
-n\ngermanb.ldf"
-Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthogr
-aphy)
+("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-portu
+ges\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\bab
 el.def"
@@ -67,8 +61,9 @@ File: babel.def 2018/11/13 3.27 Babel common definitions
 babel.def")
 \bbl@dirlevel=\count89
 )
-Package babel Info: Making " an active character on input line 121.
-)))
+\l@brazilian = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fonten
 c.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
@@ -1702,60 +1697,60 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 ) (hilfszettel.aux)
 \openout1 = `hilfszettel.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 24.
-LaTeX Font Info:    Try loading font information for OML+jkp on input line 24.
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 26.
+LaTeX Font Info:    Try loading font information for OML+jkp on input line 26.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\oml
 jkp.fd"
 File: omljkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for OMS+jkp on input line 24.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+jkp on input line 26.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\oms
 jkp.fd"
 File: omsjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for OMX+jkp on input line 24.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for OMX+jkp on input line 26.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\omx
 jkp.fd"
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for U+jkpexa on input line 24.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for U+jkpexa on input line 26.
 
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
 pexa.fd"
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 26.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr
 .fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for LY1+ptm on input line 24.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for LY1+ptm on input line 26.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ly1\ly1ptm.
 fd"
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Try loading font information for T1+jkp on input line 24.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Try loading font information for T1+jkp on input line 26.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\t1j
 kp.fd"
@@ -1799,15 +1794,15 @@ G,.JBIG2,.JB2,.eps]
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
-* h-part:(L,W,R)=(0.0pt, 842.20158pt, 2.84526pt)
-* v-part:(T,H,B)=(0.0pt, 594.66261pt, 2.84526pt)
+* h-part:(L,W,R)=(8.53581pt, 827.97522pt, 8.53581pt)
+* v-part:(T,H,B)=(8.53581pt, 580.43625pt, 8.53581pt)
 * \paperwidth=845.04684pt
 * \paperheight=597.50787pt
-* \textwidth=842.20158pt
-* \textheight=594.66261pt
-* \oddsidemargin=-72.26999pt
-* \evensidemargin=-72.26999pt
-* \topmargin=-109.26999pt
+* \textwidth=827.97522pt
+* \textheight=580.43625pt
+* \oddsidemargin=-63.73418pt
+* \evensidemargin=-63.73418pt
+* \topmargin=-100.73418pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1826,7 +1821,7 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box115
-LaTeX Info: Redefining \microtypecontext on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 26.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1850,7 +1845,9 @@ cape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (inhalt/aussagen.tex
+)
+\mylen=\skip125
+ (inhalt/aussagen.tex
 LaTeX Font Info:    Try loading font information for T1+SourceSansPro-LF on inp
 ut line 1.
 
@@ -1909,21 +1906,7 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 13.
 psyc.fd"
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-[][]\T1/jkp/m/n/8 (+20) Usoemaplicaçõesde pon-ta(altatecnologia).
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-\T1/jkp/m/n/8 (+20) Nãone-cessa-ria-men-tesão-no-vos-ma-te-riais. Po-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-\T1/jkp/m/n/8 (+20) dem-ser tra-di-cio-nais, com oti-mi-zação-das
- []
-
-LaTeX Font Info:    Try loading font information for TS1+jkp on input line 41.
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 47.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ts1
 jkp.fd"
@@ -1933,91 +1916,61 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `jkp' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-[][]\T1/jkp/m/n/8 (+20) (composição quí-mi-ca, con-cen-tração, pH,
- []
-
 <figures/crist1.png, id=4, 280.04625pt x 157.33781pt>
 File: figures/crist1.png Graphic file (type png)
 <use figures/crist1.png>
-Package pdftex.def Info: figures/crist1.png  used on input line 271.
+Package pdftex.def Info: figures/crist1.png  used on input line 279.
 (pdftex.def)             Requested size: 140.02277pt x 78.6687pt.
 <figures/crist2.png, id=6, 286.82156pt x 172.39406pt>
 File: figures/crist2.png Graphic file (type png)
 <use figures/crist2.png>
-Package pdftex.def Info: figures/crist2.png  used on input line 272.
+Package pdftex.def Info: figures/crist2.png  used on input line 281.
 (pdftex.def)             Requested size: 143.41042pt x 86.19681pt.
 <figures/crist3.png, id=7, 503.63156pt x 176.91093pt>
 File: figures/crist3.png Graphic file (type png)
 <use figures/crist3.png>
-Package pdftex.def Info: figures/crist3.png  used on input line 273.
+Package pdftex.def Info: figures/crist3.png  used on input line 283.
 (pdftex.def)             Requested size: 151.09062pt x 53.07368pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 271--274
-[][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 271--274
-[]
- []
-
 <figures/var1.png, id=8, 401.24907pt x 112.92188pt>
 File: figures/var1.png Graphic file (type png)
 <use figures/var1.png>
-Package pdftex.def Info: figures/var1.png  used on input line 283.
-(pdftex.def)             Requested size: 200.62404pt x 56.46078pt.
+Package pdftex.def Info: figures/var1.png  used on input line 293.
+(pdftex.def)             Requested size: 160.49678pt x 45.16794pt.
+
+Overfull \hbox (2.90175pt too wide) in paragraph at lines 293--294
+[][][] 
+ []
+
 <figures/var2.png, id=9, 352.31625pt x 103.88812pt>
 File: figures/var2.png Graphic file (type png)
 <use figures/var2.png>
-Package pdftex.def Info: figures/var2.png  used on input line 284.
+Package pdftex.def Info: figures/var2.png  used on input line 295.
 (pdftex.def)             Requested size: 158.54083pt x 46.7492pt.
+
+Overfull \hbox (0.9458pt too wide) in paragraph at lines 295--296
+[][][] 
+ []
+
 <figures/var3.png, id=10, 392.96812pt x 108.405pt>
 File: figures/var3.png Graphic file (type png)
 <use figures/var3.png>
-Package pdftex.def Info: figures/var3.png  used on input line 285.
+Package pdftex.def Info: figures/var3.png  used on input line 297.
 (pdftex.def)             Requested size: 196.48357pt x 54.20236pt.
 
-Overfull \hbox (40.18373pt too wide) in paragraph at lines 283--286
-[][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--286
-[]
- []
-
-
-Overfull \hbox (36.04326pt too wide) in paragraph at lines 283--286
-[] 
+Overfull \hbox (38.88853pt too wide) in paragraph at lines 297--298
+[][][] 
  []
 
 <figures/RELraio.jpg, id=11, 399.02266pt x 439.77065pt>
 File: figures/RELraio.jpg Graphic file (type jpg)
 <use figures/RELraio.jpg>
-Package pdftex.def Info: figures/RELraio.jpg  used on input line 351.
-(pdftex.def)             Requested size: 159.60623pt x 175.90514pt.
-<figures/raio.jpg, id=12, 683.14168pt x 529.47284pt>
-File: figures/raio.jpg Graphic file (type jpg)
-<use figures/raio.jpg>
-Package pdftex.def Info: figures/raio.jpg  used on input line 352.
-(pdftex.def)             Requested size: 163.95735pt x 127.07607pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--353
-[][][]
- []
-
-
-Overfull \hbox (3.51704pt too wide) in paragraph at lines 351--353
-[] 
- []
-
+Package pdftex.def Info: figures/RELraio.jpg  used on input line 368.
+(pdftex.def)             Requested size: 119.70772pt x 131.9322pt.
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.355  \section
-               {Estrutura dos materiais cerÃ¢micos}
+l.371  \includegraphics
+                       [scale=0.2,trim={0 0 0 0}]{figures/raio}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2025,7 +1978,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 355.
+ mdframed uses option nobreak mdframed on input line 371.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
@@ -2037,170 +1990,90 @@ Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 {C:/Users/OdnSpceMaker/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fi
 gures/crist1.png> <./figures/crist2.png> <./figures/crist3.png> <./figures/var1
 .png> <./figures/var2.png> <./figures/var3.png>]
+<figures/raio.jpg, id=29, 683.14168pt x 529.47284pt>
+File: figures/raio.jpg Graphic file (type jpg)
+<use figures/raio.jpg>
+Package pdftex.def Info: figures/raio.jpg  used on input line 371.
+(pdftex.def)             Requested size: 136.62592pt x 105.89268pt.
 <figures/occfc.jpg, id=30, 225.75063pt x 188.20313pt>
 File: figures/occfc.jpg Graphic file (type jpg)
 <use figures/occfc.jpg>
-Package pdftex.def Info: figures/occfc.jpg  used on input line 374.
+Package pdftex.def Info: figures/occfc.jpg  used on input line 391.
 (pdftex.def)             Requested size: 112.87503pt x 94.10132pt.
 <figures/tetcfc.jpg, id=31, 258.42pt x 219.0pt>
 File: figures/tetcfc.jpg Graphic file (type jpg)
 <use figures/tetcfc.jpg>
-Package pdftex.def Info: figures/tetcfc.jpg  used on input line 387.
+Package pdftex.def Info: figures/tetcfc.jpg  used on input line 406.
 (pdftex.def)             Requested size: 129.20967pt x 109.49973pt.
 <figures/NaCl.jpg, id=32, 251.82742pt x 225.84375pt>
 File: figures/NaCl.jpg Graphic file (type jpg)
 <use figures/NaCl.jpg>
-Package pdftex.def Info: figures/NaCl.jpg  used on input line 418.
+Package pdftex.def Info: figures/NaCl.jpg  used on input line 438.
 (pdftex.def)             Requested size: 125.91339pt x 112.92159pt.
 <figures/CsCl.png, id=33, 327.47343pt x 278.54062pt>
 File: figures/CsCl.png Graphic file (type png)
 <use figures/CsCl.png>
-Package pdftex.def Info: figures/CsCl.png  used on input line 425.
-(pdftex.def)             Requested size: 163.73631pt x 139.26996pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 424--426
-[][]\T1/jkp/m/n/8 (+20) Estrutura cú-bi-ca (NC = 8)
- []
-
-
-Overfull \hbox (3.296pt too wide) in paragraph at lines 424--426
-[] 
- []
-
+Package pdftex.def Info: figures/CsCl.png  used on input line 446.
+(pdftex.def)             Requested size: 65.49352pt x 55.70712pt.
 <figures/ZnS.jpg, id=34, 277.45035pt x 264.15932pt>
 File: figures/ZnS.jpg Graphic file (type jpg)
 <use figures/ZnS.jpg>
-Package pdftex.def Info: figures/ZnS.jpg  used on input line 434.
-(pdftex.def)             Requested size: 138.72482pt x 132.07933pt.
+Package pdftex.def Info: figures/ZnS.jpg  used on input line 456.
+(pdftex.def)             Requested size: 83.23573pt x 79.2484pt.
 <figures/CaF2.jpg, id=35, 412.54124pt x 278.54062pt>
 File: figures/CaF2.jpg Graphic file (type jpg)
 <use figures/CaF2.jpg>
-Package pdftex.def Info: figures/CaF2.jpg  used on input line 444.
-(pdftex.def)             Requested size: 206.27011pt x 139.26996pt.
-
-Overfull \hbox (45.8298pt too wide) in paragraph at lines 444--445
-[][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
-[][]\T1/jkp/m/n/8 (+20) Estrutura ti-po M2X3 Ex:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
-\T1/jkp/m/n/8 (+20) Al2O3alumina ou corund-um
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
-\T1/jkp/m/n/8 (+20) 30íonsporcélulaunitária(12Al+3e18O2-)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
-\T1/jkp/m/n/8 (+20) 2/3do-sin-ter-stí-cio-so-cu-pa-dos-porí-on-sa-lumí-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
-\T1/jkp/m/n/8 (+20) nio. Outroscompostoscomestaestrutura:-
- []
-
+Package pdftex.def Info: figures/CaF2.jpg  used on input line 466.
+(pdftex.def)             Requested size: 123.76332pt x 83.56282pt.
 <figures/Al2O3.jpg, id=36, 167.12437pt x 225.84375pt>
 File: figures/Al2O3.jpg Graphic file (type jpg)
 <use figures/Al2O3.jpg>
-Package pdftex.def Info: figures/Al2O3.jpg  used on input line 452.
+Package pdftex.def Info: figures/Al2O3.jpg  used on input line 475.
 (pdftex.def)             Requested size: 83.56197pt x 112.92159pt.
 <figures/CaTiO.jpg, id=37, 282.99411pt x 195.50937pt>
 File: figures/CaTiO.jpg Graphic file (type jpg)
 <use figures/CaTiO.jpg>
-Package pdftex.def Info: figures/CaTiO.jpg  used on input line 462.
+Package pdftex.def Info: figures/CaTiO.jpg  used on input line 487.
 (pdftex.def)             Requested size: 141.4967pt x 97.75444pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 454--463
-[][]\T1/jkp/m/n/8 (+20) Estruturatipo MM'X3
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 454--463
-\T1/jkp/m/n/8 (+20) MeM'elementosmetálicos X ele-men-to
- []
-
-
-Overfull \hbox (0.38539pt too wide) in paragraph at lines 454--463
-\T1/jkp/m/n/8 (-20) tem5íonsporcélulaunitária(1Ca+2,1Ti4+e3O2)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 454--463
-\T1/jkp/m/n/8 (+20) Ou-tro-com-po-sto-co-me-stae-stru-t-u-ra:BaTiO3.
- []
-
-
-Overfull \hbox (17.95982pt too wide) in paragraph at lines 467--472
-[][]\T1/jkp/m/n/8 (-20) M(valência+2)eM'(valência+3)elementosmetálicos
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--472
-\T1/jkp/m/n/8 (+20) importante famí-lia de ma-te-riais
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--472
-\T1/jkp/m/n/8 (+20) cerâ-mi-cos ma-gnéti-cos (es-piné-li-os).
- []
-
-
-Overfull \hbox (2.24475pt too wide) in paragraph at lines 467--472
-\T1/jkp/m/n/8 (-20) 56íonsporcélulaunitária(8Mg+2,16Al3+e32O2-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--472
-\T1/jkp/m/n/8 (+20) ), Ou-tros-com-po-stos-co-me-stae-stru-t-u-
+Underfull \hbox (badness 10000) in paragraph at lines 492--497
+[][]\T1/jkp/m/n/8 (+20) M(valência+2)eM'(valência+3)elementos
  []
 
 <figures/MgAlO.jpg, id=38, 306.94449pt x 317.5008pt>
 File: figures/MgAlO.jpg Graphic file (type jpg)
 <use figures/MgAlO.jpg>
-Package pdftex.def Info: figures/MgAlO.jpg  used on input line 473.
-(pdftex.def)             Requested size: 153.47186pt x 158.75pt.
+Package pdftex.def Info: figures/MgAlO.jpg  used on input line 498.
+(pdftex.def)             Requested size: 92.08405pt x 95.25096pt.
 <figures/estsil.jpg, id=39, 483.92558pt x 381.18883pt>
 File: figures/estsil.jpg Graphic file (type jpg)
 <use figures/estsil.jpg>
-Package pdftex.def Info: figures/estsil.jpg  used on input line 490.
-(pdftex.def)             Requested size: 241.96219pt x 190.59393pt.
-
-Overfull \hbox (81.52188pt too wide) in paragraph at lines 490--491
-[][][] 
- []
-
+Package pdftex.def Info: figures/estsil.jpg  used on input line 517.
+(pdftex.def)             Requested size: 145.17879pt x 114.35751pt.
 <figures/sil1.jpg, id=40, 589.0005pt x 265.85036pt>
 File: figures/sil1.jpg Graphic file (type jpg)
 <use figures/sil1.jpg>
-Package pdftex.def Info: figures/sil1.jpg  used on input line 493.
-(pdftex.def)             Requested size: 294.49953pt x 132.92485pt.
+Package pdftex.def Info: figures/sil1.jpg  used on input line 519.
+(pdftex.def)             Requested size: 147.24976pt x 66.46242pt.
 
-Overfull \hbox (134.05922pt too wide) in paragraph at lines 493--494
-[][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
 [][]\T1/jkp/m/n/8 (+20) tetraedros du-plos - ex:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--500
-[][]\T1/jkp/m/n/8 (+20) camadas - ex: tal-co:
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+[][]\T1/jkp/m/n/8 (+20) camadas - ex: talco:
  []
 
+<figures/estruturaTemp.jpg, id=41, 381.87111pt x 228.40889pt>
+File: figures/estruturaTemp.jpg Graphic file (type jpg)
+<use figures/estruturaTemp.jpg>
+Package pdftex.def Info: figures/estruturaTemp.jpg  used on input line 563.
+(pdftex.def)             Requested size: 152.74573pt x 91.36192pt.
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.517 
+l.586 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2209,7 +2082,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 517.
+ mdframed uses option nobreak mdframed on input line 586.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
@@ -2217,11 +2090,136 @@ Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 [2 <./figures/RELraio.jpg> <./figures/raio.jpg> <./figures/occfc.jpg> <./figure
 s/tetcfc.jpg> <./figures/NaCl.jpg> <./figures/CsCl.png> <./figures/ZnS.jpg> <./
 figures/CaF2.jpg> <./figures/Al2O3.jpg> <./figures/CaTiO.jpg> <./figures/MgAlO.
-jpg> <./figures/estsil.jpg> <./figures/sil1.jpg>])
+jpg> <./figures/estsil.jpg> <./figures/sil1.jpg> <./figures/estruturaTemp.jpg>]
+<figures/hume.jpg, id=46, 566.86781pt x 172.39406pt>
+File: figures/hume.jpg Graphic file (type jpg)
+<use figures/hume.jpg>
+Package pdftex.def Info: figures/hume.jpg  used on input line 645.
+(pdftex.def)             Requested size: 226.7431pt x 68.95639pt.
+
+Overfull \hbox (69.14807pt too wide) in paragraph at lines 645--646
+[][][] 
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 650--651
+[][]\T1/jkp/m/n/17.28 NECESSÁRIO TER-
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 650--651
+\T1/jkp/m/n/17.28 MI-NAR ESSE TÓ-
+ []
+
+<figures/defLinhas.jpg, id=47, 332.22627pt x 269.12485pt>
+File: figures/defLinhas.jpg Graphic file (type jpg)
+<use figures/defLinhas.jpg>
+Package pdftex.def Info: figures/defLinhas.jpg  used on input line 695.
+(pdftex.def)             Requested size: 132.88814pt x 107.64803pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 771--772
+\T1/jkp/m/n/12 (+20) EXEM-PLOS DE PLA-NOS
+ []
+
+<figures/difracao.jpg, id=48, 548.80031pt x 312.41719pt>
+File: figures/difracao.jpg Graphic file (type jpg)
+<use figures/difracao.jpg>
+Package pdftex.def Info: figures/difracao.jpg  used on input line 781.
+(pdftex.def)             Requested size: 219.51622pt x 124.96465pt.
+
+Overfull \hbox (61.92119pt too wide) in paragraph at lines 781--782
+[][][] 
+ []
+
+<figures/difratograma.jpg, id=49, 427.05pt x 236.885pt>
+File: figures/difratograma.jpg Graphic file (type jpg)
+<use figures/difratograma.jpg>
+Package pdftex.def Info: figures/difratograma.jpg  used on input line 790.
+(pdftex.def)             Requested size: 170.81697pt x 94.75232pt.
+
+Overfull \hbox (13.22194pt too wide) in paragraph at lines 790--791
+[][][] 
+ []
+
+<figures/difraFe.jpg, id=50, 559.64455pt x 234.72818pt>
+File: figures/difraFe.jpg Graphic file (type jpg)
+<use figures/difraFe.jpg>
+Package pdftex.def Info: figures/difraFe.jpg  used on input line 794.
+(pdftex.def)             Requested size: 223.85385pt x 93.8896pt.
+
+Overfull \hbox (66.25882pt too wide) in paragraph at lines 794--795
+[][][] 
+ []
+
+<figures/difraCu.jpg, id=51, 426.77336pt x 232.78548pt>
+File: figures/difraCu.jpg Graphic file (type jpg)
+<use figures/difraCu.jpg>
+Package pdftex.def Info: figures/difraCu.jpg  used on input line 796.
+(pdftex.def)             Requested size: 170.70631pt x 93.11253pt.
+
+Overfull \hbox (13.11128pt too wide) in paragraph at lines 796--797
+[][][] 
+ []
+
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.37 	\end{multicols*}
+l.817 	\item M
+              odificaÃ§Ã£o superficial de peÃ§as;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\T1/SourceSansPro-LF/m/n/8 (+20) Eduardo Bor-
+ []
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 817.
+
+Overfull \vbox (9.78314pt too high) has occurred while \output is active []
+
+
+[3 <./figures/hume.jpg> <./figures/defLinhas.jpg> <./figures/difracao.jpg> <./f
+igures/difratograma.jpg> <./figures/difraFe.jpg>]
+! Undefined control sequence.
+<recently read> \degres 
+                        
+l.834 ...e ao metal base. Temp. 445 a 455 $\degres
+                                                  $ C.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<figures/Eativacao.jpg, id=56, 728.3132pt x 254.69913pt>
+File: figures/Eativacao.jpg Graphic file (type jpg)
+<use figures/Eativacao.jpg>
+Package pdftex.def Info: figures/Eativacao.jpg  used on input line 886.
+(pdftex.def)             Requested size: 291.32011pt x 101.87784pt.
+
+Overfull \hbox (133.72508pt too wide) in paragraph at lines 886--887
+[][][] 
+ []
+
+<figures/difusao.jpg, id=57, 350.15324pt x 439.72733pt>
+File: figures/difusao.jpg Graphic file (type jpg)
+<use figures/difusao.jpg>
+Package pdftex.def Info: figures/difusao.jpg  used on input line 888.
+(pdftex.def)             Requested size: 105.04677pt x 131.9192pt.
+
+LaTeX Warning: Command \' invalid in math mode on input line 902.
+
+Missing character: There is no á in font jkpmn7t!
+)
+! Undefined control sequence.
+\header ...header] \footnotesize \sffamily {\lage 
+                                                  Cimat}\\ Eduardo~Borges~Li...
+l.42 	\end{multicols*}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2230,35 +2228,41 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 37.
+ mdframed uses option nobreak mdframed on input line 42.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
 
-[3] (hilfszettel.aux) ) 
+[4 <./figures/difraCu.jpg> <./figures/Eativacao.jpg> <./figures/difusao.jpg>]
+(hilfszettel.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 32237 strings out of 492947
- 651500 string characters out of 3123184
- 754632 words of memory out of 3000000
- 35388 multiletter control sequences out of 15000+200000
- 622360 words of font info for 208 fonts, out of 3000000 for 9000
+ 32317 strings out of 492947
+ 652786 string characters out of 3123184
+ 754643 words of memory out of 3000000
+ 35406 multiletter control sequences out of 15000+200000
+ 649468 words of font info for 250 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,81p,838b,1076s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9
-/fonts/enc/dvips/base/8r.enc}{C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKT
-eX 2.9/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}<C:/Users/OdnSpceMaker/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.
-pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/
-sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/OdnSpceMaker/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/OdnSpceMaker
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Use
-rs/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jk
-pmn8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/kpfonts/jkpsy.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/kpfonts/jkpsya.pfb>
-Output written on hilfszettel.pdf (3 pages, 986834 bytes).
+ 55i,14n,76p,838b,1131s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base
+/8r.enc}{C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
+s/sourcesanspro/a_ggs4wk.enc}<C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/OdnSpce
+Maker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/sourcesanspro/SourceS
+ansPro-Regular.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/kpfonts/jkpbn8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Users/OdnSpceMaker/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Users/
+OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn
+8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/kpfonts/jkpsy.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/kpfonts/jkpsya.pfb>
+Output written on hilfszettel.pdf (4 pages, 1446177 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 19564 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 32921 words of extra memory for PDF output out of 35830 (max. 10000000)
 
