@@ -883,9 +883,9 @@ Mecanismos propostos:
 	\end{itemize}
 \end{itemize}
 
-\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/Eativacao}
+\includegraphics[scale=0.2,trim={0 0 0 0}]{figures/Eativacao}
 
-\includegraphics[scale=0.3,trim={0 0 0 0}]{figures/difusao}
+\includegraphics[scale=0.45,trim={0 0 0 0}]{figures/difusao}
 
 
 \subsubsection{Fluxo de Difusão}
@@ -904,6 +904,83 @@ onde:
 	\item A = área da seção transversal
 	\item t = tempo
 \end{itemize}
+
+
+A velocidade de difusão pode ainda ser avaliada sob duas condições conhecidas na engenharia química:
+
+\begin{itemize}
+\item Difusão em estado estacionário
+\item Difusão em estado não estacionário (condições transientes)
+\end{itemize}
+
+DIFUSÃO EM ESTADO ESTACIONÁRIO
+
+Condições:
+
+\begin{itemize}
+	\item J não varia com o tempo.
+	\item J não varia com a posição.
+\end{itemize}
+
+PRIMEIRA LEI DE FICK: relaciona o fluxo com o gradiente de concentração
+
+\begin{equation}\label{key}
+J = D \cdot \frac{\Delta c}{\Delta x}
+\end{equation}
+
+onde: 
+
+\begin{itemize}
+	\item J = fluxo ($[\frac{atm}{cm^{2}\cdot s}]$)
+	\item D = Coeficiente de difusão $[\frac{cm^{2}}{s}]$ - valores tabelados; dependente da temperatura.
+	\item $\frac{\Delta c}{\Delta x}$ gradiente de concentração $[\frac{atm}{cm^{3} \cdot cm}]$
+	\item O sinal negativo indica que o fluxo ocorre no sentido da maior para a menor concentração.
+\end{itemize}
+
+DIFUSÃO EM ESTADO NÃO-ESTACIONÁRIO
+
+Segunda lei de Fick:
+
+\begin{equation}\label{key}
+\frac{\partial C}{\partial t}=D \frac{\partial^{2} C}{\partial x^{2}}
+\end{equation}
+
+
+
+\begin{itemize}
+	\item Ocorre na maioria das situações praticas que envolve difusão em sólidos.
+	\item Tanto o fluxo de difusão quanto o gradiente de concentração variam com o tempo em uma determinada posição.
+	\item Ocorre acúmulo ou esgotamento dos componentes que estão se difundindo.
+	\item Sendo especificadas as condições de contorno para a segunda Lei de Fick, podem-se obter soluções que são funções que representam as concentrações em termo de posição e tempo (C=f(x,t)).
+	\item Uma solução prática importante refere-se aà concentração constante de soluto na superfície do sólido ($C_{s}$) e à distribuição uniforme dos átomos do soluto no interior do sólido antes da difusão  ocorrer ($C_{0}$)
+\end{itemize}
+
+
+
+\begin{equation}\label{key}
+\frac{C_{\mathrm{X}}-\mathrm{C}_{0}}{\mathrm{C}_{\mathrm{S}}-\mathrm{C}_{0}}=1-\operatorname{erf}\left(\frac{\mathrm{x}}{2 \sqrt{\mathrm{D} \mathrm{t}}}\right), \quad \text { onde } \mathrm{C}_{\mathrm{X}}=\mathrm{C}=\mathrm{f}(\mathrm{x}, \mathrm{t})
+\end{equation}
+
+
+Onde:
+
+\begin{itemize}
+	\item x = condição á superfície
+	\item $C_{x}$ = Concentração à profundidade x, após tempo t
+	\item $C_{0}$ = Concentração inicial da espécie
+	\item $C_{s}$ = Concentração na superfície
+\end{itemize}
+
+
+\begin{equation}\label{key}
+\operatorname{erf}(z)=\frac{2}{\sqrt{\pi}} \int_{0}^{Z} e^{-y^{2}} d y
+\end{equation}
+
+Função matemática (Função Erro de Gauss) cujos valores são tabelados. 
+
+Se aplica a casos de difusão de gás em sólido (ex: processos de cementação)
+
+CALCULO DO COEFICIENTE DE DIFUSÃO
 
 
 
