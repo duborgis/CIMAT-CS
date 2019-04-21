@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  21 APR 2019 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  21 APR 2019 15:57
 entering extended mode
 **./hilfszettel.tex
 (hilfszettel.tex
@@ -2089,13 +2089,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--288
 <figures/estruturaTemp.jpg, id=41, 381.87111pt x 228.40889pt>
 File: figures/estruturaTemp.jpg Graphic file (type jpg)
 <use figures/estruturaTemp.jpg>
-Package pdftex.def Info: figures/estruturaTemp.jpg  used on input line 11.
+Package pdftex.def Info: figures/estruturaTemp.jpg  used on input line 8.
 (pdftex.def)             Requested size: 152.74573pt x 91.36192pt.
 
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.34 
+l.31 
      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2104,7 +2104,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 34.
+ mdframed uses option nobreak mdframed on input line 31.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
@@ -2116,27 +2116,22 @@ jpg> <./figures/estsil.jpg> <./figures/sil1.jpg> <./figures/estruturaTemp.jpg>]
 <figures/hume.jpg, id=46, 566.86781pt x 172.39406pt>
 File: figures/hume.jpg Graphic file (type jpg)
 <use figures/hume.jpg>
-Package pdftex.def Info: figures/hume.jpg  used on input line 93.
-(pdftex.def)             Requested size: 226.7431pt x 68.95639pt.
+Package pdftex.def Info: figures/hume.jpg  used on input line 90.
+(pdftex.def)             Requested size: 153.05635pt x 46.54701pt.
 
-Overfull \hbox (69.14807pt too wide) in paragraph at lines 93--94
-[][][] 
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 98--99
+Underfull \hbox (badness 5741) in paragraph at lines 95--96
 [][]\T1/jkp/m/n/17.28 NECESSÁRIO TER-
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 98--99
+Underfull \hbox (badness 7667) in paragraph at lines 95--96
 \T1/jkp/m/n/17.28 MI-NAR ESSE TÓ-
  []
 
 <figures/defLinhas.jpg, id=47, 332.22627pt x 269.12485pt>
 File: figures/defLinhas.jpg Graphic file (type jpg)
 <use figures/defLinhas.jpg>
-Package pdftex.def Info: figures/defLinhas.jpg  used on input line 143.
+Package pdftex.def Info: figures/defLinhas.jpg  used on input line 140.
 (pdftex.def)             Requested size: 132.88814pt x 107.64803pt.
 ) (P1/Slide04.tex) (P1/Slide05.tex
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
@@ -2187,8 +2182,8 @@ Overfull \hbox (13.11128pt too wide) in paragraph at lines 49--50
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.15 	\item M
-             odificaÃ§Ã£o superficial de peÃ§as;
+l.17 	\item R
+             evestimentos.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2201,7 +2196,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 15.
+ mdframed uses option nobreak mdframed on input line 17.
 
 Overfull \vbox (9.78314pt too high) has occurred while \output is active []
 
@@ -2321,7 +2316,7 @@ kpfonts/jkpmit8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy.pfb><C:/Users/OdnSpceMaker/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsya.pfb>
-Output written on hilfszettel.pdf (4 pages, 1506816 bytes).
+Output written on hilfszettel.pdf (4 pages, 1506827 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
