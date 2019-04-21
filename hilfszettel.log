@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  20 APR 2019 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  21 APR 2019 15:54
 entering extended mode
 **./hilfszettel.tex
 (hilfszettel.tex
@@ -1694,7 +1694,26 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 (inhalt/def.tex
 \pgf@layerbox@background=\box112
 \pgf@layerboxsaved@background=\box113
-) (hilfszettel.aux)
+) (hilfszettel.aux
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+)
 \openout1 = `hilfszettel.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 26.
@@ -1847,7 +1866,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 \mylen=\skip125
- (inhalt/aussagen.tex
+ (P1/Slide01.tex
 LaTeX Font Info:    Try loading font information for T1+SourceSansPro-LF on inp
 ut line 1.
 
@@ -1916,60 +1935,61 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `jkp' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+) (P1/Slide02.tex
 <figures/crist1.png, id=4, 280.04625pt x 157.33781pt>
 File: figures/crist1.png Graphic file (type png)
 <use figures/crist1.png>
-Package pdftex.def Info: figures/crist1.png  used on input line 279.
+Package pdftex.def Info: figures/crist1.png  used on input line 41.
 (pdftex.def)             Requested size: 140.02277pt x 78.6687pt.
 <figures/crist2.png, id=6, 286.82156pt x 172.39406pt>
 File: figures/crist2.png Graphic file (type png)
 <use figures/crist2.png>
-Package pdftex.def Info: figures/crist2.png  used on input line 281.
+Package pdftex.def Info: figures/crist2.png  used on input line 43.
 (pdftex.def)             Requested size: 143.41042pt x 86.19681pt.
 <figures/crist3.png, id=7, 503.63156pt x 176.91093pt>
 File: figures/crist3.png Graphic file (type png)
 <use figures/crist3.png>
-Package pdftex.def Info: figures/crist3.png  used on input line 283.
+Package pdftex.def Info: figures/crist3.png  used on input line 45.
 (pdftex.def)             Requested size: 151.09062pt x 53.07368pt.
 <figures/var1.png, id=8, 401.24907pt x 112.92188pt>
 File: figures/var1.png Graphic file (type png)
 <use figures/var1.png>
-Package pdftex.def Info: figures/var1.png  used on input line 293.
+Package pdftex.def Info: figures/var1.png  used on input line 55.
 (pdftex.def)             Requested size: 160.49678pt x 45.16794pt.
 
-Overfull \hbox (2.90175pt too wide) in paragraph at lines 293--294
+Overfull \hbox (2.90175pt too wide) in paragraph at lines 55--56
 [][][] 
  []
 
 <figures/var2.png, id=9, 352.31625pt x 103.88812pt>
 File: figures/var2.png Graphic file (type png)
 <use figures/var2.png>
-Package pdftex.def Info: figures/var2.png  used on input line 295.
+Package pdftex.def Info: figures/var2.png  used on input line 57.
 (pdftex.def)             Requested size: 158.54083pt x 46.7492pt.
 
-Overfull \hbox (0.9458pt too wide) in paragraph at lines 295--296
+Overfull \hbox (0.9458pt too wide) in paragraph at lines 57--58
 [][][] 
  []
 
 <figures/var3.png, id=10, 392.96812pt x 108.405pt>
 File: figures/var3.png Graphic file (type png)
 <use figures/var3.png>
-Package pdftex.def Info: figures/var3.png  used on input line 297.
+Package pdftex.def Info: figures/var3.png  used on input line 59.
 (pdftex.def)             Requested size: 196.48357pt x 54.20236pt.
 
-Overfull \hbox (38.88853pt too wide) in paragraph at lines 297--298
+Overfull \hbox (38.88853pt too wide) in paragraph at lines 59--60
 [][][] 
  []
 
 <figures/RELraio.jpg, id=11, 399.02266pt x 439.77065pt>
 File: figures/RELraio.jpg Graphic file (type jpg)
 <use figures/RELraio.jpg>
-Package pdftex.def Info: figures/RELraio.jpg  used on input line 368.
+Package pdftex.def Info: figures/RELraio.jpg  used on input line 130.
 (pdftex.def)             Requested size: 119.70772pt x 131.9322pt.
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.371  \includegraphics
+l.133  \includegraphics
                        [scale=0.2,trim={0 0 0 0}]{figures/raio}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1978,7 +1998,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 371.
+ mdframed uses option nobreak mdframed on input line 133.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
@@ -1993,88 +2013,90 @@ gures/crist1.png> <./figures/crist2.png> <./figures/crist3.png> <./figures/var1
 <figures/raio.jpg, id=29, 683.14168pt x 529.47284pt>
 File: figures/raio.jpg Graphic file (type jpg)
 <use figures/raio.jpg>
-Package pdftex.def Info: figures/raio.jpg  used on input line 371.
+Package pdftex.def Info: figures/raio.jpg  used on input line 133.
 (pdftex.def)             Requested size: 136.62592pt x 105.89268pt.
 <figures/occfc.jpg, id=30, 225.75063pt x 188.20313pt>
 File: figures/occfc.jpg Graphic file (type jpg)
 <use figures/occfc.jpg>
-Package pdftex.def Info: figures/occfc.jpg  used on input line 391.
+Package pdftex.def Info: figures/occfc.jpg  used on input line 153.
 (pdftex.def)             Requested size: 112.87503pt x 94.10132pt.
 <figures/tetcfc.jpg, id=31, 258.42pt x 219.0pt>
 File: figures/tetcfc.jpg Graphic file (type jpg)
 <use figures/tetcfc.jpg>
-Package pdftex.def Info: figures/tetcfc.jpg  used on input line 406.
+Package pdftex.def Info: figures/tetcfc.jpg  used on input line 168.
 (pdftex.def)             Requested size: 129.20967pt x 109.49973pt.
 <figures/NaCl.jpg, id=32, 251.82742pt x 225.84375pt>
 File: figures/NaCl.jpg Graphic file (type jpg)
 <use figures/NaCl.jpg>
-Package pdftex.def Info: figures/NaCl.jpg  used on input line 438.
+Package pdftex.def Info: figures/NaCl.jpg  used on input line 200.
 (pdftex.def)             Requested size: 125.91339pt x 112.92159pt.
 <figures/CsCl.png, id=33, 327.47343pt x 278.54062pt>
 File: figures/CsCl.png Graphic file (type png)
 <use figures/CsCl.png>
-Package pdftex.def Info: figures/CsCl.png  used on input line 446.
+Package pdftex.def Info: figures/CsCl.png  used on input line 208.
 (pdftex.def)             Requested size: 65.49352pt x 55.70712pt.
 <figures/ZnS.jpg, id=34, 277.45035pt x 264.15932pt>
 File: figures/ZnS.jpg Graphic file (type jpg)
 <use figures/ZnS.jpg>
-Package pdftex.def Info: figures/ZnS.jpg  used on input line 456.
+Package pdftex.def Info: figures/ZnS.jpg  used on input line 218.
 (pdftex.def)             Requested size: 83.23573pt x 79.2484pt.
 <figures/CaF2.jpg, id=35, 412.54124pt x 278.54062pt>
 File: figures/CaF2.jpg Graphic file (type jpg)
 <use figures/CaF2.jpg>
-Package pdftex.def Info: figures/CaF2.jpg  used on input line 466.
+Package pdftex.def Info: figures/CaF2.jpg  used on input line 228.
 (pdftex.def)             Requested size: 123.76332pt x 83.56282pt.
 <figures/Al2O3.jpg, id=36, 167.12437pt x 225.84375pt>
 File: figures/Al2O3.jpg Graphic file (type jpg)
 <use figures/Al2O3.jpg>
-Package pdftex.def Info: figures/Al2O3.jpg  used on input line 475.
+Package pdftex.def Info: figures/Al2O3.jpg  used on input line 237.
 (pdftex.def)             Requested size: 83.56197pt x 112.92159pt.
 <figures/CaTiO.jpg, id=37, 282.99411pt x 195.50937pt>
 File: figures/CaTiO.jpg Graphic file (type jpg)
 <use figures/CaTiO.jpg>
-Package pdftex.def Info: figures/CaTiO.jpg  used on input line 487.
+Package pdftex.def Info: figures/CaTiO.jpg  used on input line 249.
 (pdftex.def)             Requested size: 141.4967pt x 97.75444pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--497
+Underfull \hbox (badness 10000) in paragraph at lines 254--259
 [][]\T1/jkp/m/n/8 (+20) M(valência+2)eM'(valência+3)elementos
  []
 
 <figures/MgAlO.jpg, id=38, 306.94449pt x 317.5008pt>
 File: figures/MgAlO.jpg Graphic file (type jpg)
 <use figures/MgAlO.jpg>
-Package pdftex.def Info: figures/MgAlO.jpg  used on input line 498.
+Package pdftex.def Info: figures/MgAlO.jpg  used on input line 260.
 (pdftex.def)             Requested size: 92.08405pt x 95.25096pt.
 <figures/estsil.jpg, id=39, 483.92558pt x 381.18883pt>
 File: figures/estsil.jpg Graphic file (type jpg)
 <use figures/estsil.jpg>
-Package pdftex.def Info: figures/estsil.jpg  used on input line 517.
+Package pdftex.def Info: figures/estsil.jpg  used on input line 279.
 (pdftex.def)             Requested size: 145.17879pt x 114.35751pt.
 <figures/sil1.jpg, id=40, 589.0005pt x 265.85036pt>
 File: figures/sil1.jpg Graphic file (type jpg)
 <use figures/sil1.jpg>
-Package pdftex.def Info: figures/sil1.jpg  used on input line 519.
+Package pdftex.def Info: figures/sil1.jpg  used on input line 281.
 (pdftex.def)             Requested size: 147.24976pt x 66.46242pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--524
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 [][]\T1/jkp/m/n/8 (+20) tetraedros du-plos - ex:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 525--526
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 [][]\T1/jkp/m/n/8 (+20) camadas - ex: talco:
  []
 
+) (P1/Slide03.tex
 <figures/estruturaTemp.jpg, id=41, 381.87111pt x 228.40889pt>
 File: figures/estruturaTemp.jpg Graphic file (type jpg)
 <use figures/estruturaTemp.jpg>
-Package pdftex.def Info: figures/estruturaTemp.jpg  used on input line 563.
+Package pdftex.def Info: figures/estruturaTemp.jpg  used on input line 11.
 (pdftex.def)             Requested size: 152.74573pt x 91.36192pt.
+
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.586 
-      
+l.34 
+     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2082,7 +2104,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 586.
+ mdframed uses option nobreak mdframed on input line 34.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
@@ -2094,78 +2116,79 @@ jpg> <./figures/estsil.jpg> <./figures/sil1.jpg> <./figures/estruturaTemp.jpg>]
 <figures/hume.jpg, id=46, 566.86781pt x 172.39406pt>
 File: figures/hume.jpg Graphic file (type jpg)
 <use figures/hume.jpg>
-Package pdftex.def Info: figures/hume.jpg  used on input line 645.
+Package pdftex.def Info: figures/hume.jpg  used on input line 93.
 (pdftex.def)             Requested size: 226.7431pt x 68.95639pt.
 
-Overfull \hbox (69.14807pt too wide) in paragraph at lines 645--646
+Overfull \hbox (69.14807pt too wide) in paragraph at lines 93--94
 [][][] 
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 650--651
+Underfull \hbox (badness 5741) in paragraph at lines 98--99
 [][]\T1/jkp/m/n/17.28 NECESSÁRIO TER-
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 650--651
+Underfull \hbox (badness 7667) in paragraph at lines 98--99
 \T1/jkp/m/n/17.28 MI-NAR ESSE TÓ-
  []
 
 <figures/defLinhas.jpg, id=47, 332.22627pt x 269.12485pt>
 File: figures/defLinhas.jpg Graphic file (type jpg)
 <use figures/defLinhas.jpg>
-Package pdftex.def Info: figures/defLinhas.jpg  used on input line 695.
+Package pdftex.def Info: figures/defLinhas.jpg  used on input line 143.
 (pdftex.def)             Requested size: 132.88814pt x 107.64803pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--772
+) (P1/Slide04.tex) (P1/Slide05.tex
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 \T1/jkp/m/n/12 (+20) EXEM-PLOS DE PLA-NOS
  []
 
 <figures/difracao.jpg, id=48, 548.80031pt x 312.41719pt>
 File: figures/difracao.jpg Graphic file (type jpg)
 <use figures/difracao.jpg>
-Package pdftex.def Info: figures/difracao.jpg  used on input line 781.
+Package pdftex.def Info: figures/difracao.jpg  used on input line 34.
 (pdftex.def)             Requested size: 219.51622pt x 124.96465pt.
 
-Overfull \hbox (61.92119pt too wide) in paragraph at lines 781--782
+Overfull \hbox (61.92119pt too wide) in paragraph at lines 34--35
 [][][] 
  []
 
 <figures/difratograma.jpg, id=49, 427.05pt x 236.885pt>
 File: figures/difratograma.jpg Graphic file (type jpg)
 <use figures/difratograma.jpg>
-Package pdftex.def Info: figures/difratograma.jpg  used on input line 790.
+Package pdftex.def Info: figures/difratograma.jpg  used on input line 43.
 (pdftex.def)             Requested size: 170.81697pt x 94.75232pt.
 
-Overfull \hbox (13.22194pt too wide) in paragraph at lines 790--791
+Overfull \hbox (13.22194pt too wide) in paragraph at lines 43--44
 [][][] 
  []
 
 <figures/difraFe.jpg, id=50, 559.64455pt x 234.72818pt>
 File: figures/difraFe.jpg Graphic file (type jpg)
 <use figures/difraFe.jpg>
-Package pdftex.def Info: figures/difraFe.jpg  used on input line 794.
+Package pdftex.def Info: figures/difraFe.jpg  used on input line 47.
 (pdftex.def)             Requested size: 223.85385pt x 93.8896pt.
 
-Overfull \hbox (66.25882pt too wide) in paragraph at lines 794--795
+Overfull \hbox (66.25882pt too wide) in paragraph at lines 47--48
 [][][] 
  []
 
 <figures/difraCu.jpg, id=51, 426.77336pt x 232.78548pt>
 File: figures/difraCu.jpg Graphic file (type jpg)
 <use figures/difraCu.jpg>
-Package pdftex.def Info: figures/difraCu.jpg  used on input line 796.
+Package pdftex.def Info: figures/difraCu.jpg  used on input line 49.
 (pdftex.def)             Requested size: 170.70631pt x 93.11253pt.
 
-Overfull \hbox (13.11128pt too wide) in paragraph at lines 796--797
+Overfull \hbox (13.11128pt too wide) in paragraph at lines 49--50
 [][][] 
  []
 
+) (P1/Slide06.tex
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.817 	\item M
-              odificaÃ§Ã£o superficial de peÃ§as;
+l.15 	\item M
+             odificaÃ§Ã£o superficial de peÃ§as;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2178,7 +2201,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 817.
+ mdframed uses option nobreak mdframed on input line 15.
 
 Overfull \vbox (9.78314pt too high) has occurred while \output is active []
 
@@ -2188,7 +2211,7 @@ igures/difratograma.jpg> <./figures/difraFe.jpg>]
 ! Undefined control sequence.
 <recently read> \degres 
                         
-l.834 ...e ao metal base. Temp. 445 a 455 $\degres
+l.33 ...te ao metal base. Temp. 445 a 455 $\degres
                                                   $ C.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2199,43 +2222,63 @@ and I'll forget about whatever was undefined.
 <figures/Eativacao.jpg, id=56, 728.3132pt x 254.69913pt>
 File: figures/Eativacao.jpg Graphic file (type jpg)
 <use figures/Eativacao.jpg>
-Package pdftex.def Info: figures/Eativacao.jpg  used on input line 886.
+Package pdftex.def Info: figures/Eativacao.jpg  used on input line 85.
 (pdftex.def)             Requested size: 145.66005pt x 50.93892pt.
 <figures/difusao.jpg, id=57, 350.15324pt x 439.72733pt>
 File: figures/difusao.jpg Graphic file (type jpg)
 <use figures/difusao.jpg>
-Package pdftex.def Info: figures/difusao.jpg  used on input line 888.
+Package pdftex.def Info: figures/difusao.jpg  used on input line 87.
 (pdftex.def)             Requested size: 157.56749pt x 197.87546pt.
 
-LaTeX Warning: Command \' invalid in math mode on input line 902.
+LaTeX Warning: Command \' invalid in math mode on input line 101.
 
 Missing character: There is no á in font jkpmn7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 936--937
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 [][]$[][]$[] \T1/jkp/m/n/8 (+20) gra-di-ente de con-cen-tra-ção
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 940--941
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 [][]\T1/jkp/m/n/8 (+20) DIFUSÃO EM ES-TADO NÃO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 955--956
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 [][]\T1/jkp/m/n/8 (+20) Uma so-lu-ção prá-tica im-por-tante
  []
 
 
-Overfull \hbox (15.5188pt too wide) detected at line 962
+Overfull \hbox (15.5188pt too wide) detected at line 161
 [][] \OT1/jkp/m/n/8 = 1 \OMS/jkp/m/n/8   [] [] \OML/jkp/m/it/8 ;  []\OT1/jkp/m/
 n/8 C[] = C = f(x\OML/jkp/m/it/8 ; \OT1/jkp/m/n/8 t)
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 221--222
+\T1/jkp/m/n/8 (+20) vi-mento de um mol de áto-mos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+[][]\T1/jkp/m/n/8 (+20) R = cons-tante dos ga-ses
+ []
+
+<figures/difTemp.jpg, id=58, 477.74274pt x 463.28874pt>
+File: figures/difTemp.jpg Graphic file (type jpg)
+<use figures/difTemp.jpg>
+Package pdftex.def Info: figures/difTemp.jpg  used on input line 226.
+(pdftex.def)             Requested size: 191.0937pt x 185.31221pt.
+
+Overfull \hbox (33.49867pt too wide) in paragraph at lines 226--227
+[][][] 
  []
 
 )
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.42 	\end{multicols*}
+l.51 	\end{multicols*}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2244,23 +2287,23 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 42.
+ mdframed uses option nobreak mdframed on input line 51.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
 
-[4 <./figures/difraCu.jpg> <./figures/Eativacao.jpg> <./figures/difusao.jpg>]
-(hilfszettel.aux)
+[4 <./figures/difraCu.jpg> <./figures/Eativacao.jpg> <./figures/difusao.jpg> <.
+/figures/difTemp.jpg>] (hilfszettel.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 32321 strings out of 492947
- 652856 string characters out of 3123184
- 754696 words of memory out of 3000000
- 35410 multiletter control sequences out of 15000+200000
- 659576 words of font info for 252 fonts, out of 3000000 for 9000
+ 32352 strings out of 492947
+ 653549 string characters out of 3123184
+ 754140 words of memory out of 3000000
+ 35420 multiletter control sequences out of 15000+200000
+ 663391 words of font info for 257 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,14n,76p,838b,1131s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base
@@ -2278,9 +2321,9 @@ kpfonts/jkpmit8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy.pfb><C:/Users/OdnSpceMaker/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsya.pfb>
-Output written on hilfszettel.pdf (4 pages, 1465010 bytes).
+Output written on hilfszettel.pdf (4 pages, 1506816 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 33945 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 35486 words of extra memory for PDF output out of 35830 (max. 10000000)
 
