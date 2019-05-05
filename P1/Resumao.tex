@@ -1,4 +1,11 @@
 {\normalsize Baseado nas listas de exercícios}
+\section{Definições}
+
+Numero de Coordenação: número de partículas que envolvem uma partícula central.
+
+Fator de empacotamento: volume de átomos numa célula unitária / volume da célula unitária.
+
+
 
 \section{Redes Cristalinas}
 
@@ -57,10 +64,10 @@ Hexagonal
 \end{itemize}
 
 
-\includegraphics[scale=0.3,trim={0 0 0 0}]{figures/RELraio}
+\includegraphics[scale=0.5,trim={0 0 0 0}]{figures/RELraio}
 
 
-\includegraphics[scale=0.2,trim={0 0 0 0}]{figures/raio}
+\includegraphics[scale=0.3,trim={0 0 0 0}]{figures/raio}
 
 \section{Variação Vol pela Mudança de Estrutura Cristalina}
 
@@ -141,36 +148,35 @@ O posicionamento das partículas nos materiais cerâmicos depende da relação e
 
 
 
-\includegraphics[scale=0.27,trim={0 0 0 0}]{figures/hume}
-
-\section{Definições}
-
-Numero de Coordenação: número de partículas que envolvem uma partícula central.
-
-Fator de empacotamento: volume de átomos numa célula unitária / volume da célula unitária.
+\includegraphics[scale=0.35,trim={0 0 0 0}]{figures/hume}
 
 
 \section{Direções Cristalográficas}
 
 A crystallographic direction is defined as a line between two points, or a vector. The following steps are used to determine the three directional indices:
+\\
 
 1. A vector of convenient length is positioned such that it passes through the
 origin of the coordinate system. Any vector may be translated throughout the
 crystal lattice without alteration, if parallelism is maintained.
+\\
 
 2. The length of the vector projection on each of the three axes is determined;
 these are measured in terms of the unit cell dimensions a, b, and c.
+\\
 
 3. These three numbers are multiplied or divided by a common factor to reduce
 them to the smallest integer values.
+\\
 
 4. The three indices, not separated by commas, are enclosed in square brackets,
 thus: [uvw]. The u, v, and w integers correspond to the reduced projections
 along the x, y, and z axes, respectively.
+\\
 
-\includegraphics[scale=0.27,trim={0 0 0 0}]{figures/direcoesCrist}
+\includegraphics[scale=1,trim={0 0 0 0}]{figures/direcoesCrist}
 
-\includegraphics[scale=0.27,trim={0 0 0 0}]{figures/direSum}
+\includegraphics[scale=0.6,trim={0 0 0 0}]{figures/direSum}
 
 
 \section{Planos Cristalográficos}
@@ -179,24 +185,28 @@ along the x, y, and z axes, respectively.
 1. If the plane passes through the selected origin, either another parallel plane
 must be constructed within the unit cell by an appropriate translation, or a
 new origin must be established at the corner of another unit cell.
+\\
 
 2. At this point the crystallographic plane either intersects or parallels each of
 the three axes; the length of the planar intercept for each axis is determined
 in terms of the lattice parameters a, b, and c.
+\\
 
 3. The reciprocals of these numbers are taken. A plane that parallels an axis
 may be considered to have an infinite intercept, and, therefore, a zero index.
+\\
 
 4. If necessary, these three numbers are changed to the set of smallest integers
 by multiplication or division by a common factor.3
+\\
 
 5. Finally, the integer indices, not separated by commas, are enclosed within
 parentheses, thus: (hkl).
 
 
-\includegraphics[scale=0.27,trim={0 0 0 0}]{figures/planSum1}
+\includegraphics[scale=0.55,trim={0 0 0 0}]{figures/planSum1}
 
-\includegraphics[scale=0.27,trim={0 0 0 0}]{figures/planSum2}
+\includegraphics[scale=0.5,trim={0 0 0 0}]{figures/planSum2}
 
 
 \section{Densidade Teórica}
@@ -216,18 +226,49 @@ parentheses, thus: (hkl).
 \section{Densidade Linear}
 
 \begin{equation}\label{key}
-LD = \frac{número de átomos centrados na direção do vetor}{tamanho do vetor direção}
+LD = \frac{número de Átomos Centrados na Direção do Vetor}{tamanho do vetor direção}
 \end{equation}
 
 
 \section{Densidade Planar}
 
 \begin{equation}\label{key}
-PD = \dfrac{número de átomos centrados no plano}{área do plano}
+PD = \dfrac{número de Átomos Centrados no Plano}{Área do plano}
 \end{equation}
 
 
-\subsubsection{Fluxo de Difusão}
+
+
+\section{Mecanismos de Difusão}
+
+
+Mecanismos propostos:
+
+
+
+
+\begin{itemize}
+	\item Difusão por lacunas (ou difusão substitucional): Átomo se desloca da posição padrão da rede cristalina para algum local (sitio) vazio próximo.
+	\begin{itemize}
+		\item átomo do elemento acrescido substitui a posição de um dos átomos presentes na célula unitária
+		\item O átomo segue direção contrária ao movimento da lacuna.
+		\item Depende da quantidade de lacunas presentes na rede cristalina.
+		\item A quantidade de lacunas aumenta com a temperatura.
+		\item O processo é denominado AUTODIFUSÃO quando os próprios átomos da rede se difundem ou INTERDIFUSÃO quando ocorre difusão de impurezas substitucionais.
+	\end{itemize}
+	\item Difusão intersticial
+	\begin{itemize}
+		\item átomo invada o interstício dos átomos que formam a rede cristalina
+		\item Átomos intersticiais migram para posições adjacentes da rede cristalina.
+		\item Corresponde a um tipo importante de difusão em metais e ligas cuja impureza apresenta pequeno raio atômico em relação ao átomo da matriz cristalina. (ex: C e H)
+		\item É geralmente mais rápida (apresenta maior coeficiente de difusão)
+		\item Menor energia necessária para o movimento dos átomos.
+	\end{itemize}
+\end{itemize}
+
+
+
+\subsection{Fluxo de Difusão}
 
 A velocidade com que ocorre a difusão é avaliada em termos de FLUXO DE DIFUSÃO que corresponde a massa (ou número de átomos) que se difunde por unidade de tempo através de uma área perpendicular à direção do movimento da massa que está se difundindo.
 
@@ -308,3 +349,137 @@ Onde:
 
 
 
+\section{Diagrama de Fazes}
+
+Def: O diagrama de fases de um dado sistema indica que tipo de microestrutura estará presente, em uma determinada temperatura e composição. É um diagrama termodinâmicos, que não indica a velocidade das reações.
+
+A solubilidade é um dos fatores que interferem diretamente na formação de uma ou mais fases. Pois, quando o sistema ultrapassar o limite de solubilidade uma segunda fase será formada.
+
+Uma liga metálica policristalina pode apresentar mais de um fase.
+
+A figura abaixo mostra como a solubilidade uma determinada substância em relação a outra pode alterar em função da temperatura.
+
+
+\includegraphics[scale=0.3,trim={0 0 0 0}]{figures/soluTemp}
+
+Diagrama de fases de substância pura: 
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/diagramFe}
+
+A partir do DIAGRAMA DE FASES, para um dado \emph{teor de soluto} e uma dada \emph{temperatura} podemos predizes:
+
+
+\begin{itemize}
+	\item que fases são \emph{termodinamicamente} estáveis.
+	\item a composição de cada uma delas
+	\item a quantidade de cada uma delas
+\end{itemize}
+
+
+\section{Solubilidade entre Componentes}
+
+\subsection{ Sistema Binário Isomorfo}
+ 
+ : com solubilidade total no líquido e no sólido.
+
+
+
+
+Sistema Binário Isomorfo:
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/binIso}
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/binIso2}
+
+\begin{equation}\label{key}
+\mathrm{C}_{0}=\mathrm{C}_{\mathrm{L}} \mathrm{W}_{\mathrm{L}}+\mathrm{C}_{\mathrm{S}} \mathrm{W}_{\mathrm{S}}
+\end{equation}
+
+\begin{equation}\label{key}
+\mathrm{W}_{\mathrm{L}}+\mathrm{W}_{\mathrm{S}}=1
+\end{equation}
+
+\begin{equation}\label{key}
+\mathrm{W}_{\mathrm{S}}=\frac{\left(\mathrm{C}_{0}-\mathrm{C}_{\mathrm{L}}\right) }{\left(\mathrm{C}_{\mathrm{S}}-\mathrm{C}_{\mathrm{L}}\right)}
+\end{equation}
+
+\begin{equation}\label{key}
+W_{L}=\frac{\left(C_{S}-C_{0}\right) }{\left(C_{S}-C_{L}\right)}
+\end{equation}
+
+No diagrama:
+
+\begin{itemize}
+	\item Fração mássica da fase líquida: $W_{L}$= S / R + S
+	\item Fração mássica da fase sólida $W_{S}$= R / R + S
+\end{itemize}
+
+
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/fases}
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/fases2}
+
+\includegraphics[scale=0.3,trim={0 0 0 0}]{figures/subsCompos}
+
+A medida que a liga resfria, a solidificação avança e a composição das fases é alterada.
+
+
+
+
+\subsection{ Sistema Binário sem qualquer solubilidade:} 
+ 
+ sem formação de solução solida.
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/semQ}
+
+Microestrutura:
+
+\includegraphics[scale=0.3,trim={0 0 0 0}]{figures/microSemQ}
+
+
+\subsection{Sistema Binário com solubilidade parcial:} 
+
+com reação eutética e/ou eutetóide.
+
+Com reação eutética:
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/eute}
+
+\begin{equation}\label{key}
+L \leftrightarrow S_{1} = S_{2}
+\end{equation}
+
+Micro estrutura:
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/microEute}
+
+\includegraphics[scale=0.4,trim={0 0 0 0}]{figures/microEute2}
+
+
+
+
+\section{Tips}
+
+Tabela erf(z)
+
+\includegraphics[scale=1,trim={0 0 0 0}]{figures/erf}
+
+Formula da interpolação
+
+$P_{1}(x)=y_{0}+\frac{y_{1}-y_{0}}{x_{1}-x_{0}}\left(x-x_{0}\right)$
+
+
+Fórmula Volume Esfera
+
+$V=\frac{4 . \pi \cdot r^{3}}{3}$
+
+Fórmula Volumo de cubo
+
+$V=a \times a \times a$
+
+$V=a^{3}$
+
+Formula Volume de Hexaedro
+
+$\mathrm{V}=\frac{3 \mathrm{a}^{2} \sqrt{3}}{2} \mathrm{h}$

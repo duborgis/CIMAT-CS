@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  28 APR 2019 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  5 MAY 2019 12:04
 entering extended mode
 **./hilfszettel.tex
 (hilfszettel.tex
@@ -1728,6 +1728,12 @@ LaTeX Warning: Label `key' multiply defined.
 
 LaTeX Warning: Label `key' multiply defined.
 
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
 )
 \openout1 = `hilfszettel.aux'.
 
@@ -1881,9 +1887,9 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 \mylen=\skip125
- (P1/Slide01.tex
+ (P1/Resumao.tex
 LaTeX Font Info:    Try loading font information for T1+SourceSansPro-LF on inp
-ut line 1.
+ut line 2.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sourcesansp
 ro\t1sourcesanspro-lf.fd"
@@ -1891,56 +1897,16 @@ File: T1SourceSansPro-LF.fd 2016/12/03 (autoinst) Font definitions for T1/Sourc
 eSansPro-LF.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1.
+(Font)              scaled to size 8.0pt on input line 2.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `SourceSansPro-LF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 1.
+(Font)              scaled to size 9.0pt on input line 2.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 1.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
-LaTeX Font Info:    Try loading font information for OT1+jkp on input line 13.
-
-("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ot1
-jkp.fd"
-File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `jkp' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for U+jkpmia on input line 13.
-
-
-("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
-pmia.fd"
-File: ujkpmia.fd 2006/08/15 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+jkpsya on input line 13.
-
-
-("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
-psya.fd"
-File: ujkpsya.fd 2006/08/15 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 13.
-
-
-("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
-psyb.fd"
-File: ujkpsyb.fd 2006/08/15 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 13.
-
-
-("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
-psyc.fd"
-File: ujkpsyc.fd 2006/08/15 v1.0
-)
-LaTeX Font Info:    Try loading font information for TS1+jkp on input line 47.
+(Font)              scaled to size 9.0pt on input line 2.
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 17.
 
 ("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ts1
 jkp.fd"
@@ -1950,62 +1916,185 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `jkp' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (P1/Slide02.tex
-<figures/crist1.png, id=4, 280.04625pt x 157.33781pt>
-File: figures/crist1.png Graphic file (type png)
-<use figures/crist1.png>
-Package pdftex.def Info: figures/crist1.png  used on input line 39.
-(pdftex.def)             Requested size: 140.02277pt x 78.6687pt.
-<figures/crist2.png, id=6, 286.82156pt x 172.39406pt>
-File: figures/crist2.png Graphic file (type png)
-<use figures/crist2.png>
-Package pdftex.def Info: figures/crist2.png  used on input line 41.
-(pdftex.def)             Requested size: 143.41042pt x 86.19681pt.
-<figures/crist3.png, id=7, 503.63156pt x 176.91093pt>
-File: figures/crist3.png Graphic file (type png)
-<use figures/crist3.png>
-Package pdftex.def Info: figures/crist3.png  used on input line 43.
-(pdftex.def)             Requested size: 151.09062pt x 53.07368pt.
-<figures/var1.png, id=8, 401.24907pt x 112.92188pt>
-File: figures/var1.png Graphic file (type png)
-<use figures/var1.png>
-Package pdftex.def Info: figures/var1.png  used on input line 53.
-(pdftex.def)             Requested size: 160.49678pt x 45.16794pt.
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 29.
 
-Overfull \hbox (2.90175pt too wide) in paragraph at lines 53--54
-[][][] 
- []
+("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ot1
+jkp.fd"
+File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `jkp' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for U+jkpmia on input line 29.
 
-<figures/var2.png, id=9, 352.31625pt x 103.88812pt>
-File: figures/var2.png Graphic file (type png)
-<use figures/var2.png>
-Package pdftex.def Info: figures/var2.png  used on input line 55.
-(pdftex.def)             Requested size: 158.54083pt x 46.7492pt.
 
-Overfull \hbox (0.9458pt too wide) in paragraph at lines 55--56
-[][][] 
- []
+("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
+pmia.fd"
+File: ujkpmia.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsya on input line 29.
 
-<figures/var3.png, id=10, 392.96812pt x 108.405pt>
-File: figures/var3.png Graphic file (type png)
-<use figures/var3.png>
-Package pdftex.def Info: figures/var3.png  used on input line 57.
-(pdftex.def)             Requested size: 196.48357pt x 54.20236pt.
 
-Overfull \hbox (38.88853pt too wide) in paragraph at lines 57--58
-[][][] 
- []
+("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
+psya.fd"
+File: ujkpsya.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyb on input line 29.
 
-<figures/RELraio.jpg, id=11, 399.02266pt x 439.77065pt>
+
+("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
+psyb.fd"
+File: ujkpsyb.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 29.
+
+
+("C:\Users\OdnSpceMaker\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kpfonts\ujk
+psyc.fd"
+File: ujkpsyc.fd 2006/08/15 v1.0
+)
+<figures/RELraio.jpg, id=4, 399.02266pt x 439.77065pt>
 File: figures/RELraio.jpg Graphic file (type jpg)
 <use figures/RELraio.jpg>
-Package pdftex.def Info: figures/RELraio.jpg  used on input line 123.
-(pdftex.def)             Requested size: 119.70772pt x 131.9322pt.
+Package pdftex.def Info: figures/RELraio.jpg  used on input line 67.
+(pdftex.def)             Requested size: 199.51083pt x 219.88478pt.
+<figures/raio.jpg, id=5, 683.14168pt x 529.47284pt>
+File: figures/raio.jpg Graphic file (type jpg)
+<use figures/raio.jpg>
+Package pdftex.def Info: figures/raio.jpg  used on input line 70.
+(pdftex.def)             Requested size: 204.94408pt x 158.84306pt.
+
+Overfull \hbox (5.45027pt too wide) in paragraph at lines 70--71
+[][][] 
+ []
+
+<figures/occfc.jpg, id=6, 225.75063pt x 188.20313pt>
+File: figures/occfc.jpg Graphic file (type jpg)
+<use figures/occfc.jpg>
+Package pdftex.def Info: figures/occfc.jpg  used on input line 94.
+(pdftex.def)             Requested size: 112.87503pt x 94.10132pt.
+<figures/tetcfc.jpg, id=7, 258.42pt x 219.0pt>
+File: figures/tetcfc.jpg Graphic file (type jpg)
+<use figures/tetcfc.jpg>
+Package pdftex.def Info: figures/tetcfc.jpg  used on input line 109.
+(pdftex.def)             Requested size: 129.20967pt x 109.49973pt.
+<figures/hume.jpg, id=8, 566.86781pt x 172.39406pt>
+File: figures/hume.jpg Graphic file (type jpg)
+<use figures/hume.jpg>
+Package pdftex.def Info: figures/hume.jpg  used on input line 151.
+(pdftex.def)             Requested size: 198.40671pt x 60.33882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--176
+
+ []
+
+<figures/direcoesCrist.jpg, id=9, 146.79843pt x 162.6075pt>
+File: figures/direcoesCrist.jpg Graphic file (type jpg)
+<use figures/direcoesCrist.jpg>
+Package pdftex.def Info: figures/direcoesCrist.jpg  used on input line 177.
+(pdftex.def)             Requested size: 146.79807pt x 162.6071pt.
+<figures/direSum.jpg, id=10, 346.29375pt x 109.1578pt>
+File: figures/direSum.jpg Graphic file (type jpg)
+<use figures/direSum.jpg>
+Package pdftex.def Info: figures/direSum.jpg  used on input line 179.
+(pdftex.def)             Requested size: 207.77785pt x 65.49518pt.
+
+Overfull \hbox (8.28404pt too wide) in paragraph at lines 179--180
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--202
+
+ []
+
+<figures/planSum1.jpg, id=11, 353.06906pt x 165.61874pt>
+File: figures/planSum1.jpg Graphic file (type jpg)
+<use figures/planSum1.jpg>
+Package pdftex.def Info: figures/planSum1.jpg  used on input line 207.
+(pdftex.def)             Requested size: 194.18857pt x 91.09058pt.
+<figures/planSum2.jpg, id=12, 374.90062pt x 99.37125pt>
+File: figures/planSum2.jpg Graphic file (type jpg)
+<use figures/planSum2.jpg>
+Package pdftex.def Info: figures/planSum2.jpg  used on input line 209.
+(pdftex.def)             Requested size: 187.44984pt x 49.6855pt.
+
+LaTeX Warning: Command \' invalid in math mode on input line 229.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 229.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 229.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 229.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 229.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 229.
+
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no Á in font jkpmn7t!
+Missing character: There is no ç in font jkpmn7t!
+Missing character: There is no ã in font jkpmn7t!
+Missing character: There is no ç in font jkpmn7t!
+Missing character: There is no ã in font jkpmn7t!
+
+LaTeX Warning: Command \' invalid in math mode on input line 236.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 236.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 236.
+
+Missing character: There is no ú in font jkpmn7t!
+Missing character: There is no Á in font jkpmn7t!
+Missing character: There is no Á in font jkpmn7t!
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.126  \includegraphics
-                       [scale=0.25,trim={0 0 0 0}]{figures/raio}
+l.237 \end{equation}
+                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2013,7 +2102,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 126.
+ mdframed uses option nobreak mdframed on input line 237.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
@@ -2023,419 +2112,56 @@ Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
 
 {C:/Users/OdnSpceMaker/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fi
-gures/crist1.png> <./figures/crist2.png> <./figures/crist3.png> <./figures/var1
-.png> <./figures/var2.png> <./figures/var3.png>]
-<figures/raio.jpg, id=29, 683.14168pt x 529.47284pt>
-File: figures/raio.jpg Graphic file (type jpg)
-<use figures/raio.jpg>
-Package pdftex.def Info: figures/raio.jpg  used on input line 126.
-(pdftex.def)             Requested size: 170.785pt x 132.36787pt.
-
-Overfull \hbox (13.18997pt too wide) in paragraph at lines 126--127
-[][][] 
- []
-
-<figures/occfc.jpg, id=30, 225.75063pt x 188.20313pt>
-File: figures/occfc.jpg Graphic file (type jpg)
-<use figures/occfc.jpg>
-Package pdftex.def Info: figures/occfc.jpg  used on input line 146.
-(pdftex.def)             Requested size: 112.87503pt x 94.10132pt.
-<figures/tetcfc.jpg, id=31, 258.42pt x 219.0pt>
-File: figures/tetcfc.jpg Graphic file (type jpg)
-<use figures/tetcfc.jpg>
-Package pdftex.def Info: figures/tetcfc.jpg  used on input line 161.
-(pdftex.def)             Requested size: 129.20967pt x 109.49973pt.
-<figures/NaCl.jpg, id=32, 251.82742pt x 225.84375pt>
-File: figures/NaCl.jpg Graphic file (type jpg)
-<use figures/NaCl.jpg>
-Package pdftex.def Info: figures/NaCl.jpg  used on input line 193.
-(pdftex.def)             Requested size: 125.91339pt x 112.92159pt.
-<figures/CsCl.png, id=33, 327.47343pt x 278.54062pt>
-File: figures/CsCl.png Graphic file (type png)
-<use figures/CsCl.png>
-Package pdftex.def Info: figures/CsCl.png  used on input line 201.
-(pdftex.def)             Requested size: 65.49352pt x 55.70712pt.
-<figures/ZnS.jpg, id=34, 277.45035pt x 264.15932pt>
-File: figures/ZnS.jpg Graphic file (type jpg)
-<use figures/ZnS.jpg>
-Package pdftex.def Info: figures/ZnS.jpg  used on input line 211.
-(pdftex.def)             Requested size: 83.23573pt x 79.2484pt.
-<figures/CaF2.jpg, id=35, 412.54124pt x 278.54062pt>
-File: figures/CaF2.jpg Graphic file (type jpg)
-<use figures/CaF2.jpg>
-Package pdftex.def Info: figures/CaF2.jpg  used on input line 221.
-(pdftex.def)             Requested size: 123.76332pt x 83.56282pt.
-<figures/Al2O3.jpg, id=36, 167.12437pt x 225.84375pt>
-File: figures/Al2O3.jpg Graphic file (type jpg)
-<use figures/Al2O3.jpg>
-Package pdftex.def Info: figures/Al2O3.jpg  used on input line 230.
-(pdftex.def)             Requested size: 83.56197pt x 112.92159pt.
-<figures/CaTiO.jpg, id=37, 282.99411pt x 195.50937pt>
-File: figures/CaTiO.jpg Graphic file (type jpg)
-<use figures/CaTiO.jpg>
-Package pdftex.def Info: figures/CaTiO.jpg  used on input line 242.
-(pdftex.def)             Requested size: 141.4967pt x 97.75444pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 247--252
-[][]\T1/jkp/m/n/8 (+20) M(valência+2)eM'(valência+3)elementos
- []
-
-<figures/MgAlO.jpg, id=38, 306.94449pt x 317.5008pt>
-File: figures/MgAlO.jpg Graphic file (type jpg)
-<use figures/MgAlO.jpg>
-Package pdftex.def Info: figures/MgAlO.jpg  used on input line 253.
-(pdftex.def)             Requested size: 92.08405pt x 95.25096pt.
-<figures/estsil.jpg, id=39, 483.92558pt x 381.18883pt>
-File: figures/estsil.jpg Graphic file (type jpg)
-<use figures/estsil.jpg>
-Package pdftex.def Info: figures/estsil.jpg  used on input line 272.
-(pdftex.def)             Requested size: 145.17879pt x 114.35751pt.
-<figures/sil1.jpg, id=40, 589.0005pt x 265.85036pt>
-File: figures/sil1.jpg Graphic file (type jpg)
-<use figures/sil1.jpg>
-Package pdftex.def Info: figures/sil1.jpg  used on input line 274.
-(pdftex.def)             Requested size: 147.24976pt x 66.46242pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
-[][]\T1/jkp/m/n/8 (+20) tetraedros du-plos - ex:
- []
+gures/RELraio.jpg> <./figures/raio.jpg> <./figures/occfc.jpg> <./figures/tetcfc
+.jpg> <./figures/hume.jpg> <./figures/direcoesCrist.jpg> <./figures/direSum.jpg
+>]
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 271.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[][]\T1/jkp/m/n/8 (+20) camadas - ex: talco:
- []
-
-) (P1/Slide03.tex
-<figures/estruturaTemp.jpg, id=41, 381.87111pt x 228.40889pt>
-File: figures/estruturaTemp.jpg Graphic file (type jpg)
-<use figures/estruturaTemp.jpg>
-Package pdftex.def Info: figures/estruturaTemp.jpg  used on input line 8.
-(pdftex.def)             Requested size: 152.74573pt x 91.36192pt.
-
-! Undefined control sequence.
-\header ...header] \footnotesize \sffamily {\lage 
-                                                  Cimat}\\ Eduardo~Borges~Li...
-l.28 \end{itemize}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/SourceSansPro-LF/m/n/8 (+20) Eduardo Bor-
- []
-
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 28.
-
-Overfull \vbox (9.78314pt too high) has occurred while \output is active []
-
-
-[2 <./figures/RELraio.jpg> <./figures/raio.jpg> <./figures/occfc.jpg> <./figure
-s/tetcfc.jpg> <./figures/NaCl.jpg> <./figures/CsCl.png> <./figures/ZnS.jpg> <./
-figures/CaF2.jpg> <./figures/Al2O3.jpg> <./figures/CaTiO.jpg> <./figures/MgAlO.
-jpg> <./figures/estsil.jpg> <./figures/sil1.jpg>]
-<figures/hume.jpg, id=46, 566.86781pt x 172.39406pt>
-File: figures/hume.jpg Graphic file (type jpg)
-<use figures/hume.jpg>
-Package pdftex.def Info: figures/hume.jpg  used on input line 90.
-(pdftex.def)             Requested size: 153.05635pt x 46.54701pt.
-
-Underfull \hbox (badness 5741) in paragraph at lines 95--96
-[][]\T1/jkp/m/n/17.28 NECESSÁRIO TER-
- []
-
-
-Underfull \hbox (badness 7667) in paragraph at lines 95--96
-\T1/jkp/m/n/17.28 MI-NAR ESSE TÓ-
- []
-
-<figures/defLinhas.jpg, id=47, 332.22627pt x 269.12485pt>
-File: figures/defLinhas.jpg Graphic file (type jpg)
-<use figures/defLinhas.jpg>
-Package pdftex.def Info: figures/defLinhas.jpg  used on input line 140.
-(pdftex.def)             Requested size: 132.88814pt x 107.64803pt.
-) (P1/Slide04.tex) (P1/Slide05.tex
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-\T1/jkp/m/n/12 (+20) EXEM-PLOS DE PLA-NOS
- []
-
-<figures/difracao.jpg, id=48, 548.80031pt x 312.41719pt>
-File: figures/difracao.jpg Graphic file (type jpg)
-<use figures/difracao.jpg>
-Package pdftex.def Info: figures/difracao.jpg  used on input line 34.
-(pdftex.def)             Requested size: 219.51622pt x 124.96465pt.
-
-Overfull \hbox (61.92119pt too wide) in paragraph at lines 34--35
-[][][] 
- []
-
-<figures/difratograma.jpg, id=49, 427.05pt x 236.885pt>
-File: figures/difratograma.jpg Graphic file (type jpg)
-<use figures/difratograma.jpg>
-Package pdftex.def Info: figures/difratograma.jpg  used on input line 43.
-(pdftex.def)             Requested size: 170.81697pt x 94.75232pt.
-
-Overfull \hbox (13.22194pt too wide) in paragraph at lines 43--44
-[][][] 
- []
-
-<figures/difraFe.jpg, id=50, 559.64455pt x 234.72818pt>
-File: figures/difraFe.jpg Graphic file (type jpg)
-<use figures/difraFe.jpg>
-Package pdftex.def Info: figures/difraFe.jpg  used on input line 47.
-(pdftex.def)             Requested size: 223.85385pt x 93.8896pt.
-
-Overfull \hbox (66.25882pt too wide) in paragraph at lines 47--48
-[][][] 
- []
-
-<figures/difraCu.jpg, id=51, 426.77336pt x 232.78548pt>
-File: figures/difraCu.jpg Graphic file (type jpg)
-<use figures/difraCu.jpg>
-Package pdftex.def Info: figures/difraCu.jpg  used on input line 49.
-(pdftex.def)             Requested size: 170.70631pt x 93.11253pt.
-
-Overfull \hbox (13.11128pt too wide) in paragraph at lines 49--50
-[][][] 
- []
-
-! Undefined control sequence.
-\header ...header] \footnotesize \sffamily {\lage 
-                                                  Cimat}\\ Eduardo~Borges~Li...
-l.51 A
-       mistura de amostras Ã© revelada no difratograma com a superposiÃ§Ã£o ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 51.
-
-Overfull \vbox (2.18312pt too high) has occurred while \output is active []
-
-
-[3 <./figures/estruturaTemp.jpg> <./figures/hume.jpg> <./figures/defLinhas.jpg>
- <./figures/difracao.jpg>]) (P1/Slide06.tex
-! Undefined control sequence.
-<recently read> \degres 
-                        
-l.33 ...te ao metal base. Temp. 445 a 455 $\degres
-                                                  $ C.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<figures/Eativacao.jpg, id=56, 728.3132pt x 254.69913pt>
-File: figures/Eativacao.jpg Graphic file (type jpg)
-<use figures/Eativacao.jpg>
-Package pdftex.def Info: figures/Eativacao.jpg  used on input line 85.
-(pdftex.def)             Requested size: 145.66005pt x 50.93892pt.
-<figures/difusao.jpg, id=57, 350.15324pt x 439.72733pt>
-File: figures/difusao.jpg Graphic file (type jpg)
-<use figures/difusao.jpg>
-Package pdftex.def Info: figures/difusao.jpg  used on input line 87.
-(pdftex.def)             Requested size: 157.56749pt x 197.87546pt.
-
-LaTeX Warning: Command \' invalid in math mode on input line 101.
+LaTeX Warning: Command \' invalid in math mode on input line 282.
 
 Missing character: There is no á in font jkpmn7t!
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-[][]$[][]$[] \T1/jkp/m/n/8 (+20) gra-di-ente de con-cen-tra-ção
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-[][]\T1/jkp/m/n/8 (+20) DIFUSÃO EM ES-TADO NÃO-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-[][]\T1/jkp/m/n/8 (+20) Uma so-lu-ção prá-tica im-por-tante
- []
-
-
-Overfull \hbox (15.5188pt too wide) detected at line 161
-[][] \OT1/jkp/m/n/8 = 1 \OMS/jkp/m/n/8   [] [] \OML/jkp/m/it/8 ;  []\OT1/jkp/m/
-n/8 C[] = C = f(x\OML/jkp/m/it/8 ; \OT1/jkp/m/n/8 t)
- []
-
-
-Underfull \hbox (badness 5578) in paragraph at lines 221--222
-\T1/jkp/m/n/8 (+20) vi-mento de um mol de áto-mos
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
-[][]\T1/jkp/m/n/8 (+20) R = cons-tante dos ga-ses
- []
-
-<figures/difTemp.jpg, id=58, 477.74274pt x 463.28874pt>
-File: figures/difTemp.jpg Graphic file (type jpg)
-<use figures/difTemp.jpg>
-Package pdftex.def Info: figures/difTemp.jpg  used on input line 226.
-(pdftex.def)             Requested size: 191.0937pt x 185.31221pt.
-
-Overfull \hbox (33.49867pt too wide) in paragraph at lines 226--227
-[][][] 
- []
-
-! Undefined control sequence.
-\header ...header] \footnotesize \sffamily {\lage 
-                                                  Cimat}\\ Eduardo~Borges~Li...
-l.246 \end{itemize}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/SourceSansPro-LF/m/n/8 (+20) Eduardo Bor-
- []
-
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 246.
-
-Overfull \vbox (9.78314pt too high) has occurred while \output is active []
-
-
-[4 <./figures/difratograma.jpg> <./figures/difraFe.jpg> <./figures/difraCu.jpg>
- <./figures/Eativacao.jpg> <./figures/difusao.jpg>]) (P1/Slide07.tex
-<figures/soluTemp.jpg, id=64, 590.45082pt x 439.02795pt>
+<figures/soluTemp.jpg, id=24, 590.45082pt x 439.02795pt>
 File: figures/soluTemp.jpg Graphic file (type jpg)
 <use figures/soluTemp.jpg>
-Package pdftex.def Info: figures/soluTemp.jpg  used on input line 12.
+Package pdftex.def Info: figures/soluTemp.jpg  used on input line 363.
 (pdftex.def)             Requested size: 177.13661pt x 131.7094pt.
-
-Overfull \hbox (19.54158pt too wide) in paragraph at lines 12--13
-[][][] 
- []
-
-<figures/diagramFe.jpg, id=65, 347.08012pt x 263.46532pt>
+<figures/diagramFe.jpg, id=25, 347.08012pt x 263.46532pt>
 File: figures/diagramFe.jpg Graphic file (type jpg)
 <use figures/diagramFe.jpg>
-Package pdftex.def Info: figures/diagramFe.jpg  used on input line 16.
+Package pdftex.def Info: figures/diagramFe.jpg  used on input line 367.
 (pdftex.def)             Requested size: 138.82957pt x 105.38425pt.
-<figures/binIso.jpg, id=66, 356.77596pt x 364.39937pt>
+<figures/binIso.jpg, id=26, 356.77596pt x 364.39937pt>
 File: figures/binIso.jpg Graphic file (type jpg)
 <use figures/binIso.jpg>
-Package pdftex.def Info: figures/binIso.jpg  used on input line 37.
+Package pdftex.def Info: figures/binIso.jpg  used on input line 390.
 (pdftex.def)             Requested size: 142.70784pt x 145.75716pt.
-<figures/binIso2.jpg, id=67, 448.74628pt x 390.7622pt>
+<figures/binIso2.jpg, id=27, 448.74628pt x 390.7622pt>
 File: figures/binIso2.jpg Graphic file (type jpg)
 <use figures/binIso2.jpg>
-Package pdftex.def Info: figures/binIso2.jpg  used on input line 39.
+Package pdftex.def Info: figures/binIso2.jpg  used on input line 392.
 (pdftex.def)             Requested size: 179.49533pt x 156.30211pt.
-
-Overfull \hbox (21.9003pt too wide) in paragraph at lines 39--40
-[][][] 
- []
-
-<figures/fases.jpg, id=68, 444.91219pt x 350.81062pt>
+<figures/fases.jpg, id=28, 444.91219pt x 350.81062pt>
 File: figures/fases.jpg Graphic file (type jpg)
 <use figures/fases.jpg>
-Package pdftex.def Info: figures/fases.jpg  used on input line 66.
+Package pdftex.def Info: figures/fases.jpg  used on input line 419.
 (pdftex.def)             Requested size: 177.96172pt x 140.32175pt.
-
-Overfull \hbox (20.36668pt too wide) in paragraph at lines 66--67
-[][][] 
- []
-
-<figures/fases2.jpg, id=69, 405.01312pt x 322.20375pt>
+<figures/fases2.jpg, id=29, 405.01312pt x 322.20375pt>
 File: figures/fases2.jpg Graphic file (type jpg)
 <use figures/fases2.jpg>
-Package pdftex.def Info: figures/fases2.jpg  used on input line 68.
+Package pdftex.def Info: figures/fases2.jpg  used on input line 421.
 (pdftex.def)             Requested size: 162.00237pt x 128.87921pt.
-
-Overfull \hbox (4.40733pt too wide) in paragraph at lines 68--69
-[][][] 
- []
-
-<figures/subsCompos.jpg, id=70, 551.77571pt x 379.6584pt>
+<figures/subsCompos.jpg, id=30, 551.77571pt x 379.6584pt>
 File: figures/subsCompos.jpg Graphic file (type jpg)
 <use figures/subsCompos.jpg>
-Package pdftex.def Info: figures/subsCompos.jpg  used on input line 70.
-(pdftex.def)             Requested size: 220.70636pt x 151.86066pt.
-
-Overfull \hbox (63.11133pt too wide) in paragraph at lines 70--71
-[][][] 
- []
-
-<figures/semQ.jpg, id=71, 446.52536pt x 432.32947pt>
-File: figures/semQ.jpg Graphic file (type jpg)
-<use figures/semQ.jpg>
-Package pdftex.def Info: figures/semQ.jpg  used on input line 79.
-(pdftex.def)             Requested size: 178.60696pt x 172.92873pt.
-
-Overfull \hbox (21.01193pt too wide) in paragraph at lines 79--80
-[][][] 
- []
-
-<figures/microSemQ.jpg, id=72, 645.19304pt x 328.88087pt>
-File: figures/microSemQ.jpg Graphic file (type jpg)
-<use figures/microSemQ.jpg>
-Package pdftex.def Info: figures/microSemQ.jpg  used on input line 83.
-(pdftex.def)             Requested size: 258.07263pt x 131.55002pt.
-
-Overfull \hbox (100.4776pt too wide) in paragraph at lines 83--84
-[][][] 
- []
-
-<figures/eute.jpg, id=73, 366.90923pt x 423.89134pt>
-File: figures/eute.jpg Graphic file (type jpg)
-<use figures/eute.jpg>
-Package pdftex.def Info: figures/eute.jpg  used on input line 90.
-(pdftex.def)             Requested size: 146.76108pt x 169.55353pt.
-<figures/microEute.jpg, id=74, 660.39827pt x 365.0881pt>
-File: figures/microEute.jpg Graphic file (type jpg)
-<use figures/microEute.jpg>
-Package pdftex.def Info: figures/microEute.jpg  used on input line 98.
-(pdftex.def)             Requested size: 264.15462pt x 146.03264pt.
-
-Overfull \hbox (106.55959pt too wide) in paragraph at lines 98--99
-[][][] 
- []
-
-<figures/microEute2.jpg, id=75, 673.7429pt x 309.28452pt>
-File: figures/microEute2.jpg Graphic file (type jpg)
-<use figures/microEute2.jpg>
-Package pdftex.def Info: figures/microEute2.jpg  used on input line 100.
-(pdftex.def)             Requested size: 269.49239pt x 123.71161pt.
-
-Overfull \hbox (111.89735pt too wide) in paragraph at lines 100--101
-[][][] 
- []
-
-) (P1/Resumao.tex
-File: figures/RELraio.jpg Graphic file (type jpg)
-<use figures/RELraio.jpg>
-Package pdftex.def Info: figures/RELraio.jpg  used on input line 60.
-(pdftex.def)             Requested size: 119.70772pt x 131.9322pt.
-File: figures/raio.jpg Graphic file (type jpg)
-<use figures/raio.jpg>
-Package pdftex.def Info: figures/raio.jpg  used on input line 63.
-(pdftex.def)             Requested size: 204.94408pt x 158.84306pt.
-
-Overfull \hbox (47.34904pt too wide) in paragraph at lines 63--64
-[][][] 
- []
-
+Package pdftex.def Info: figures/subsCompos.jpg  used on input line 423.
+(pdftex.def)             Requested size: 165.53398pt x 113.89839pt.
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
                                                   Cimat}\\ Eduardo~Borges~Li...
-l.68  \section
-              {Estrutura dos materiais CerÃ¢micos}
+l.425 A
+        medida que a liga resfria, a solidificaÃ§Ã£o avanÃ§a e a composiÃ§Ã£...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2443,23 +2169,58 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 68.
+ mdframed uses option nobreak mdframed on input line 425.
 
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
 
-[5 <./figures/difTemp.jpg> <./figures/soluTemp.jpg> <./figures/diagramFe.jpg> <
-./figures/binIso.jpg> <./figures/binIso2.jpg> <./figures/fases.jpg> <./figures/
-fases2.jpg> <./figures/subsCompos.jpg> <./figures/semQ.jpg> <./figures/microSem
-Q.jpg> <./figures/eute.jpg> <./figures/microEute.jpg>]
-File: figures/occfc.jpg Graphic file (type jpg)
-<use figures/occfc.jpg>
-Package pdftex.def Info: figures/occfc.jpg  used on input line 85.
-(pdftex.def)             Requested size: 112.87503pt x 94.10132pt.
-File: figures/tetcfc.jpg Graphic file (type jpg)
-<use figures/tetcfc.jpg>
-Package pdftex.def Info: figures/tetcfc.jpg  used on input line 100.
-(pdftex.def)             Requested size: 129.20967pt x 109.49973pt.
+[2 <./figures/planSum1.jpg> <./figures/planSum2.jpg> <./figures/soluTemp.jpg> <
+./figures/diagramFe.jpg> <./figures/binIso.jpg> <./figures/binIso2.jpg>]
+<figures/semQ.jpg, id=37, 446.52536pt x 432.32947pt>
+File: figures/semQ.jpg Graphic file (type jpg)
+<use figures/semQ.jpg>
+Package pdftex.def Info: figures/semQ.jpg  used on input line 434.
+(pdftex.def)             Requested size: 178.60696pt x 172.92873pt.
+<figures/microSemQ.jpg, id=38, 645.19304pt x 328.88087pt>
+File: figures/microSemQ.jpg Graphic file (type jpg)
+<use figures/microSemQ.jpg>
+Package pdftex.def Info: figures/microSemQ.jpg  used on input line 438.
+(pdftex.def)             Requested size: 193.5594pt x 98.66501pt.
+<figures/eute.jpg, id=39, 366.90923pt x 423.89134pt>
+File: figures/eute.jpg Graphic file (type jpg)
+<use figures/eute.jpg>
+Package pdftex.def Info: figures/eute.jpg  used on input line 447.
+(pdftex.def)             Requested size: 146.76108pt x 169.55353pt.
+<figures/microEute.jpg, id=40, 660.39827pt x 365.0881pt>
+File: figures/microEute.jpg Graphic file (type jpg)
+<use figures/microEute.jpg>
+Package pdftex.def Info: figures/microEute.jpg  used on input line 455.
+(pdftex.def)             Requested size: 264.15462pt x 146.03264pt.
+
+Overfull \hbox (64.66081pt too wide) in paragraph at lines 455--456
+[][][] 
+ []
+
+<figures/microEute2.jpg, id=41, 673.7429pt x 309.28452pt>
+File: figures/microEute2.jpg Graphic file (type jpg)
+<use figures/microEute2.jpg>
+Package pdftex.def Info: figures/microEute2.jpg  used on input line 457.
+(pdftex.def)             Requested size: 269.49239pt x 123.71161pt.
+
+Overfull \hbox (69.99858pt too wide) in paragraph at lines 457--458
+[][][] 
+ []
+
+<figures/erf.jpg, id=42, 343.2825pt x 147.55125pt>
+File: figures/erf.jpg Graphic file (type jpg)
+<use figures/erf.jpg>
+Package pdftex.def Info: figures/erf.jpg  used on input line 466.
+(pdftex.def)             Requested size: 343.28165pt x 147.55087pt.
+
+Overfull \hbox (143.78784pt too wide) in paragraph at lines 466--467
+[][][] 
+ []
+
 )
 ! Undefined control sequence.
 \header ...header] \footnotesize \sffamily {\lage 
@@ -2478,19 +2239,21 @@ Package mdframed Info: mdframed inside a box
 Overfull \vbox (2.18312pt too high) has occurred while \output is active []
 
 
-[6 <./figures/microEute2.jpg>] (hilfszettel.aux)
+[3 <./figures/fases.jpg> <./figures/fases2.jpg> <./figures/subsCompos.jpg> <./f
+igures/semQ.jpg> <./figures/microSemQ.jpg> <./figures/eute.jpg> <./figures/micr
+oEute.jpg> <./figures/microEute2.jpg> <./figures/erf.jpg>] (hilfszettel.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 32448 strings out of 492947
- 655320 string characters out of 3123184
- 754226 words of memory out of 3000000
- 35472 multiletter control sequences out of 15000+200000
- 666202 words of font info for 276 fonts, out of 3000000 for 9000
+ 32187 strings out of 492947
+ 651182 string characters out of 3123184
+ 738489 words of memory out of 3000000
+ 35375 multiletter control sequences out of 15000+200000
+ 633074 words of font info for 176 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,14n,81p,838b,1139s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,14n,76p,838b,1093s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base
 /8r.enc}{C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
 s/sourcesanspro/a_ggs4wk.enc}<C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKT
@@ -2504,11 +2267,11 @@ SpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmia.p
 fb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 kpfonts/jkpmit8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/kpfonts/jkpmn8a.pfb><C:/Users/OdnSpceMaker/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy.pfb><C:/Users/OdnSpceMaker/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsya.pfb>
-Output written on hilfszettel.pdf (6 pages, 2101282 bytes).
+rams/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmnc.pfb><C:/Users/OdnSpceMaker/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy.pfb>
+Output written on hilfszettel.pdf (3 pages, 1052494 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 39642 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 30843 words of extra memory for PDF output out of 35830 (max. 10000000)
 
